@@ -1,0 +1,1444 @@
+##gff-version 3
+##sequence-region Akt1 1 157
+Akt1	.	gene	1	157	.	+	.	ID=gene_Akt1;Name=Akt1_gene
+Akt1	.	mRNA	1	157	.	+	.	ID=mrna_Akt1;Parent=gene_Akt1;Name=Akt1_mrna
+Akt1	.	exon	1	157	.	+	.	Parent=mrna_Akt1;Name=Akt1_exon
+Akt1	.	CDS	1	157	.	+	0	Parent=mrna_Akt1;Name=Akt1_cds
+##sequence-region Anpep 1 164
+Anpep	.	gene	1	164	.	+	.	ID=gene_Anpep;Name=Anpep_gene
+Anpep	.	mRNA	1	164	.	+	.	ID=mrna_Anpep;Parent=gene_Anpep;Name=Anpep_mrna
+Anpep	.	exon	1	164	.	+	.	Parent=mrna_Anpep;Name=Anpep_exon
+Anpep	.	CDS	1	164	.	+	0	Parent=mrna_Anpep;Name=Anpep_cds
+##sequence-region Aurka 1 162
+Aurka	.	gene	1	162	.	+	.	ID=gene_Aurka;Name=Aurka_gene
+Aurka	.	mRNA	1	162	.	+	.	ID=mrna_Aurka;Parent=gene_Aurka;Name=Aurka_mrna
+Aurka	.	exon	1	162	.	+	.	Parent=mrna_Aurka;Name=Aurka_exon
+Aurka	.	CDS	1	162	.	+	0	Parent=mrna_Aurka;Name=Aurka_cds
+##sequence-region Cdca7 1 157
+Cdca7	.	gene	1	157	.	+	.	ID=gene_Cdca7;Name=Cdca7_gene
+Cdca7	.	mRNA	1	157	.	+	.	ID=mrna_Cdca7;Parent=gene_Cdca7;Name=Cdca7_mrna
+Cdca7	.	exon	1	157	.	+	.	Parent=mrna_Cdca7;Name=Cdca7_exon
+Cdca7	.	CDS	1	157	.	+	0	Parent=mrna_Cdca7;Name=Cdca7_cds
+##sequence-region EphB3 1 157
+EphB3	.	gene	1	157	.	+	.	ID=gene_EphB3;Name=EphB3_gene
+EphB3	.	mRNA	1	157	.	+	.	ID=mrna_EphB3;Parent=gene_EphB3;Name=EphB3_mrna
+EphB3	.	exon	1	157	.	+	.	Parent=mrna_EphB3;Name=EphB3_exon
+EphB3	.	CDS	1	157	.	+	0	Parent=mrna_EphB3;Name=EphB3_cds
+##sequence-region Fabp1 1 158
+Fabp1	.	gene	1	158	.	+	.	ID=gene_Fabp1;Name=Fabp1_gene
+Fabp1	.	mRNA	1	158	.	+	.	ID=mrna_Fabp1;Parent=gene_Fabp1;Name=Fabp1_mrna
+Fabp1	.	exon	1	158	.	+	.	Parent=mrna_Fabp1;Name=Fabp1_exon
+Fabp1	.	CDS	1	158	.	+	0	Parent=mrna_Fabp1;Name=Fabp1_cds
+##sequence-region Fth1 1 169
+Fth1	.	gene	1	169	.	+	.	ID=gene_Fth1;Name=Fth1_gene
+Fth1	.	mRNA	1	169	.	+	.	ID=mrna_Fth1;Parent=gene_Fth1;Name=Fth1_mrna
+Fth1	.	exon	1	169	.	+	.	Parent=mrna_Fth1;Name=Fth1_exon
+Fth1	.	CDS	1	169	.	+	0	Parent=mrna_Fth1;Name=Fth1_cds
+##sequence-region Hif1a 1 153
+Hif1a	.	gene	1	153	.	+	.	ID=gene_Hif1a;Name=Hif1a_gene
+Hif1a	.	mRNA	1	153	.	+	.	ID=mrna_Hif1a;Parent=gene_Hif1a;Name=Hif1a_mrna
+Hif1a	.	exon	1	153	.	+	.	Parent=mrna_Hif1a;Name=Hif1a_exon
+Hif1a	.	CDS	1	153	.	+	0	Parent=mrna_Hif1a;Name=Hif1a_cds
+##sequence-region Id1 1 148
+Id1	.	gene	1	148	.	+	.	ID=gene_Id1;Name=Id1_gene
+Id1	.	mRNA	1	148	.	+	.	ID=mrna_Id1;Parent=gene_Id1;Name=Id1_mrna
+Id1	.	exon	1	148	.	+	.	Parent=mrna_Id1;Name=Id1_exon
+Id1	.	CDS	1	148	.	+	0	Parent=mrna_Id1;Name=Id1_cds
+##sequence-region Klf4 1 169
+Klf4	.	gene	1	169	.	+	.	ID=gene_Klf4;Name=Klf4_gene
+Klf4	.	mRNA	1	169	.	+	.	ID=mrna_Klf4;Parent=gene_Klf4;Name=Klf4_mrna
+Klf4	.	exon	1	169	.	+	.	Parent=mrna_Klf4;Name=Klf4_exon
+Klf4	.	CDS	1	169	.	+	0	Parent=mrna_Klf4;Name=Klf4_cds
+##sequence-region Map2k1 1 160
+Map2k1	.	gene	1	160	.	+	.	ID=gene_Map2k1;Name=Map2k1_gene
+Map2k1	.	mRNA	1	160	.	+	.	ID=mrna_Map2k1;Parent=gene_Map2k1;Name=Map2k1_mrna
+Map2k1	.	exon	1	160	.	+	.	Parent=mrna_Map2k1;Name=Map2k1_exon
+Map2k1	.	CDS	1	160	.	+	0	Parent=mrna_Map2k1;Name=Map2k1_cds
+##sequence-region Map3k1 1 154
+Map3k1	.	gene	1	154	.	+	.	ID=gene_Map3k1;Name=Map3k1_gene
+Map3k1	.	mRNA	1	154	.	+	.	ID=mrna_Map3k1;Parent=gene_Map3k1;Name=Map3k1_mrna
+Map3k1	.	exon	1	154	.	+	.	Parent=mrna_Map3k1;Name=Map3k1_exon
+Map3k1	.	CDS	1	154	.	+	0	Parent=mrna_Map3k1;Name=Map3k1_cds
+##sequence-region Mbnl2 1 153
+Mbnl2	.	gene	1	153	.	+	.	ID=gene_Mbnl2;Name=Mbnl2_gene
+Mbnl2	.	mRNA	1	153	.	+	.	ID=mrna_Mbnl2;Parent=gene_Mbnl2;Name=Mbnl2_mrna
+Mbnl2	.	exon	1	153	.	+	.	Parent=mrna_Mbnl2;Name=Mbnl2_exon
+Mbnl2	.	CDS	1	153	.	+	0	Parent=mrna_Mbnl2;Name=Mbnl2_cds
+##sequence-region Mdh2 1 154
+Mdh2	.	gene	1	154	.	+	.	ID=gene_Mdh2;Name=Mdh2_gene
+Mdh2	.	mRNA	1	154	.	+	.	ID=mrna_Mdh2;Parent=gene_Mdh2;Name=Mdh2_mrna
+Mdh2	.	exon	1	154	.	+	.	Parent=mrna_Mdh2;Name=Mdh2_exon
+Mdh2	.	CDS	1	154	.	+	0	Parent=mrna_Mdh2;Name=Mdh2_cds
+##sequence-region Pabpc1 1 149
+Pabpc1	.	gene	1	149	.	+	.	ID=gene_Pabpc1;Name=Pabpc1_gene
+Pabpc1	.	mRNA	1	149	.	+	.	ID=mrna_Pabpc1;Parent=gene_Pabpc1;Name=Pabpc1_mrna
+Pabpc1	.	exon	1	149	.	+	.	Parent=mrna_Pabpc1;Name=Pabpc1_exon
+Pabpc1	.	CDS	1	149	.	+	0	Parent=mrna_Pabpc1;Name=Pabpc1_cds
+##sequence-region Pdk1 1 157
+Pdk1	.	gene	1	157	.	+	.	ID=gene_Pdk1;Name=Pdk1_gene
+Pdk1	.	mRNA	1	157	.	+	.	ID=mrna_Pdk1;Parent=gene_Pdk1;Name=Pdk1_mrna
+Pdk1	.	exon	1	157	.	+	.	Parent=mrna_Pdk1;Name=Pdk1_exon
+Pdk1	.	CDS	1	157	.	+	0	Parent=mrna_Pdk1;Name=Pdk1_cds
+##sequence-region Plac8 1 157
+Plac8	.	gene	1	157	.	+	.	ID=gene_Plac8;Name=Plac8_gene
+Plac8	.	mRNA	1	157	.	+	.	ID=mrna_Plac8;Parent=gene_Plac8;Name=Plac8_mrna
+Plac8	.	exon	1	157	.	+	.	Parent=mrna_Plac8;Name=Plac8_exon
+Plac8	.	CDS	1	157	.	+	0	Parent=mrna_Plac8;Name=Plac8_cds
+##sequence-region Ppm1g 1 158
+Ppm1g	.	gene	1	158	.	+	.	ID=gene_Ppm1g;Name=Ppm1g_gene
+Ppm1g	.	mRNA	1	158	.	+	.	ID=mrna_Ppm1g;Parent=gene_Ppm1g;Name=Ppm1g_mrna
+Ppm1g	.	exon	1	158	.	+	.	Parent=mrna_Ppm1g;Name=Ppm1g_exon
+Ppm1g	.	CDS	1	158	.	+	0	Parent=mrna_Ppm1g;Name=Ppm1g_cds
+##sequence-region PTEN 1 155
+PTEN	.	gene	1	155	.	+	.	ID=gene_PTEN;Name=PTEN_gene
+PTEN	.	mRNA	1	155	.	+	.	ID=mrna_PTEN;Parent=gene_PTEN;Name=PTEN_mrna
+PTEN	.	exon	1	155	.	+	.	Parent=mrna_PTEN;Name=PTEN_exon
+PTEN	.	CDS	1	155	.	+	0	Parent=mrna_PTEN;Name=PTEN_cds
+##sequence-region Ptma 1 147
+Ptma	.	gene	1	147	.	+	.	ID=gene_Ptma;Name=Ptma_gene
+Ptma	.	mRNA	1	147	.	+	.	ID=mrna_Ptma;Parent=gene_Ptma;Name=Ptma_mrna
+Ptma	.	exon	1	147	.	+	.	Parent=mrna_Ptma;Name=Ptma_exon
+Ptma	.	CDS	1	147	.	+	0	Parent=mrna_Ptma;Name=Ptma_cds
+##sequence-region Ptprn2 1 161
+Ptprn2	.	gene	1	161	.	+	.	ID=gene_Ptprn2;Name=Ptprn2_gene
+Ptprn2	.	mRNA	1	161	.	+	.	ID=mrna_Ptprn2;Parent=gene_Ptprn2;Name=Ptprn2_mrna
+Ptprn2	.	exon	1	161	.	+	.	Parent=mrna_Ptprn2;Name=Ptprn2_exon
+Ptprn2	.	CDS	1	161	.	+	0	Parent=mrna_Ptprn2;Name=Ptprn2_cds
+##sequence-region Rgs2 1 173
+Rgs2	.	gene	1	173	.	+	.	ID=gene_Rgs2;Name=Rgs2_gene
+Rgs2	.	mRNA	1	173	.	+	.	ID=mrna_Rgs2;Parent=gene_Rgs2;Name=Rgs2_mrna
+Rgs2	.	exon	1	173	.	+	.	Parent=mrna_Rgs2;Name=Rgs2_exon
+Rgs2	.	CDS	1	173	.	+	0	Parent=mrna_Rgs2;Name=Rgs2_cds
+##sequence-region Sox4 1 158
+Sox4	.	gene	1	158	.	+	.	ID=gene_Sox4;Name=Sox4_gene
+Sox4	.	mRNA	1	158	.	+	.	ID=mrna_Sox4;Parent=gene_Sox4;Name=Sox4_mrna
+Sox4	.	exon	1	158	.	+	.	Parent=mrna_Sox4;Name=Sox4_exon
+Sox4	.	CDS	1	158	.	+	0	Parent=mrna_Sox4;Name=Sox4_cds
+##sequence-region Tk1 1 165
+Tk1	.	gene	1	165	.	+	.	ID=gene_Tk1;Name=Tk1_gene
+Tk1	.	mRNA	1	165	.	+	.	ID=mrna_Tk1;Parent=gene_Tk1;Name=Tk1_mrna
+Tk1	.	exon	1	165	.	+	.	Parent=mrna_Tk1;Name=Tk1_exon
+Tk1	.	CDS	1	165	.	+	0	Parent=mrna_Tk1;Name=Tk1_cds
+##sequence-region Zg16 1 159
+Zg16	.	gene	1	159	.	+	.	ID=gene_Zg16;Name=Zg16_gene
+Zg16	.	mRNA	1	159	.	+	.	ID=mrna_Zg16;Parent=gene_Zg16;Name=Zg16_mrna
+Zg16	.	exon	1	159	.	+	.	Parent=mrna_Zg16;Name=Zg16_exon
+Zg16	.	CDS	1	159	.	+	0	Parent=mrna_Zg16;Name=Zg16_cds
+##sequence-region 1810065E05Rik 1 155
+1810065E05Rik	.	gene	1	155	.	+	.	ID=gene_1810065E05Rik;Name=1810065E05Rik_gene
+1810065E05Rik	.	mRNA	1	155	.	+	.	ID=mrna_1810065E05Rik;Parent=gene_1810065E05Rik;Name=1810065E05Rik_mrna
+1810065E05Rik	.	exon	1	155	.	+	.	Parent=mrna_1810065E05Rik;Name=1810065E05Rik_exon
+1810065E05Rik	.	CDS	1	155	.	+	0	Parent=mrna_1810065E05Rik;Name=1810065E05Rik_cds
+##sequence-region Acvr1 1 153
+Acvr1	.	gene	1	153	.	+	.	ID=gene_Acvr1;Name=Acvr1_gene
+Acvr1	.	mRNA	1	153	.	+	.	ID=mrna_Acvr1;Parent=gene_Acvr1;Name=Acvr1_mrna
+Acvr1	.	exon	1	153	.	+	.	Parent=mrna_Acvr1;Name=Acvr1_exon
+Acvr1	.	CDS	1	153	.	+	0	Parent=mrna_Acvr1;Name=Acvr1_cds
+##sequence-region Adh1 1 158
+Adh1	.	gene	1	158	.	+	.	ID=gene_Adh1;Name=Adh1_gene
+Adh1	.	mRNA	1	158	.	+	.	ID=mrna_Adh1;Parent=gene_Adh1;Name=Adh1_mrna
+Adh1	.	exon	1	158	.	+	.	Parent=mrna_Adh1;Name=Adh1_exon
+Adh1	.	CDS	1	158	.	+	0	Parent=mrna_Adh1;Name=Adh1_cds
+##sequence-region Agr2 1 159
+Agr2	.	gene	1	159	.	+	.	ID=gene_Agr2;Name=Agr2_gene
+Agr2	.	mRNA	1	159	.	+	.	ID=mrna_Agr2;Parent=gene_Agr2;Name=Agr2_mrna
+Agr2	.	exon	1	159	.	+	.	Parent=mrna_Agr2;Name=Agr2_exon
+Agr2	.	CDS	1	159	.	+	0	Parent=mrna_Agr2;Name=Agr2_cds
+##sequence-region Aldh1 1 146
+Aldh1	.	gene	1	146	.	+	.	ID=gene_Aldh1;Name=Aldh1_gene
+Aldh1	.	mRNA	1	146	.	+	.	ID=mrna_Aldh1;Parent=gene_Aldh1;Name=Aldh1_mrna
+Aldh1	.	exon	1	146	.	+	.	Parent=mrna_Aldh1;Name=Aldh1_exon
+Aldh1	.	CDS	1	146	.	+	0	Parent=mrna_Aldh1;Name=Aldh1_cds
+##sequence-region Aldh2 1 166
+Aldh2	.	gene	1	166	.	+	.	ID=gene_Aldh2;Name=Aldh2_gene
+Aldh2	.	mRNA	1	166	.	+	.	ID=mrna_Aldh2;Parent=gene_Aldh2;Name=Aldh2_mrna
+Aldh2	.	exon	1	166	.	+	.	Parent=mrna_Aldh2;Name=Aldh2_exon
+Aldh2	.	CDS	1	166	.	+	0	Parent=mrna_Aldh2;Name=Aldh2_cds
+##sequence-region Aldob 1 167
+Aldob	.	gene	1	167	.	+	.	ID=gene_Aldob;Name=Aldob_gene
+Aldob	.	mRNA	1	167	.	+	.	ID=mrna_Aldob;Parent=gene_Aldob;Name=Aldob_mrna
+Aldob	.	exon	1	167	.	+	.	Parent=mrna_Aldob;Name=Aldob_exon
+Aldob	.	CDS	1	167	.	+	0	Parent=mrna_Aldob;Name=Aldob_cds
+##sequence-region Alox5ap 1 163
+Alox5ap	.	gene	1	163	.	+	.	ID=gene_Alox5ap;Name=Alox5ap_gene
+Alox5ap	.	mRNA	1	163	.	+	.	ID=mrna_Alox5ap;Parent=gene_Alox5ap;Name=Alox5ap_mrna
+Alox5ap	.	exon	1	163	.	+	.	Parent=mrna_Alox5ap;Name=Alox5ap_exon
+Alox5ap	.	CDS	1	163	.	+	0	Parent=mrna_Alox5ap;Name=Alox5ap_cds
+##sequence-region Alpi 1 161
+Alpi	.	gene	1	161	.	+	.	ID=gene_Alpi;Name=Alpi_gene
+Alpi	.	mRNA	1	161	.	+	.	ID=mrna_Alpi;Parent=gene_Alpi;Name=Alpi_mrna
+Alpi	.	exon	1	161	.	+	.	Parent=mrna_Alpi;Name=Alpi_exon
+Alpi	.	CDS	1	161	.	+	0	Parent=mrna_Alpi;Name=Alpi_cds
+##sequence-region Ang4 1 165
+Ang4	.	gene	1	165	.	+	.	ID=gene_Ang4;Name=Ang4_gene
+Ang4	.	mRNA	1	165	.	+	.	ID=mrna_Ang4;Parent=gene_Ang4;Name=Ang4_mrna
+Ang4	.	exon	1	165	.	+	.	Parent=mrna_Ang4;Name=Ang4_exon
+Ang4	.	CDS	1	165	.	+	0	Parent=mrna_Ang4;Name=Ang4_cds
+##sequence-region Apoa4 1 158
+Apoa4	.	gene	1	158	.	+	.	ID=gene_Apoa4;Name=Apoa4_gene
+Apoa4	.	mRNA	1	158	.	+	.	ID=mrna_Apoa4;Parent=gene_Apoa4;Name=Apoa4_mrna
+Apoa4	.	exon	1	158	.	+	.	Parent=mrna_Apoa4;Name=Apoa4_exon
+Apoa4	.	CDS	1	158	.	+	0	Parent=mrna_Apoa4;Name=Apoa4_cds
+##sequence-region Apoc3 1 166
+Apoc3	.	gene	1	166	.	+	.	ID=gene_Apoc3;Name=Apoc3_gene
+Apoc3	.	mRNA	1	166	.	+	.	ID=mrna_Apoc3;Parent=gene_Apoc3;Name=Apoc3_mrna
+Apoc3	.	exon	1	166	.	+	.	Parent=mrna_Apoc3;Name=Apoc3_exon
+Apoc3	.	CDS	1	166	.	+	0	Parent=mrna_Apoc3;Name=Apoc3_cds
+##sequence-region Aqp4 1 162
+Aqp4	.	gene	1	162	.	+	.	ID=gene_Aqp4;Name=Aqp4_gene
+Aqp4	.	mRNA	1	162	.	+	.	ID=mrna_Aqp4;Parent=gene_Aqp4;Name=Aqp4_mrna
+Aqp4	.	exon	1	162	.	+	.	Parent=mrna_Aqp4;Name=Aqp4_exon
+Aqp4	.	CDS	1	162	.	+	0	Parent=mrna_Aqp4;Name=Aqp4_cds
+##sequence-region Areg 1 162
+Areg	.	gene	1	162	.	+	.	ID=gene_Areg;Name=Areg_gene
+Areg	.	mRNA	1	162	.	+	.	ID=mrna_Areg;Parent=gene_Areg;Name=Areg_mrna
+Areg	.	exon	1	162	.	+	.	Parent=mrna_Areg;Name=Areg_exon
+Areg	.	CDS	1	162	.	+	0	Parent=mrna_Areg;Name=Areg_cds
+##sequence-region Ascl2 1 170
+Ascl2	.	gene	1	170	.	+	.	ID=gene_Ascl2;Name=Ascl2_gene
+Ascl2	.	mRNA	1	170	.	+	.	ID=mrna_Ascl2;Parent=gene_Ascl2;Name=Ascl2_mrna
+Ascl2	.	exon	1	170	.	+	.	Parent=mrna_Ascl2;Name=Ascl2_exon
+Ascl2	.	CDS	1	170	.	+	0	Parent=mrna_Ascl2;Name=Ascl2_cds
+##sequence-region Atoh1 1 170
+Atoh1	.	gene	1	170	.	+	.	ID=gene_Atoh1;Name=Atoh1_gene
+Atoh1	.	mRNA	1	170	.	+	.	ID=mrna_Atoh1;Parent=gene_Atoh1;Name=Atoh1_mrna
+Atoh1	.	exon	1	170	.	+	.	Parent=mrna_Atoh1;Name=Atoh1_exon
+Atoh1	.	CDS	1	170	.	+	0	Parent=mrna_Atoh1;Name=Atoh1_cds
+##sequence-region Axin2 1 160
+Axin2	.	gene	1	160	.	+	.	ID=gene_Axin2;Name=Axin2_gene
+Axin2	.	mRNA	1	160	.	+	.	ID=mrna_Axin2;Parent=gene_Axin2;Name=Axin2_mrna
+Axin2	.	exon	1	160	.	+	.	Parent=mrna_Axin2;Name=Axin2_exon
+Axin2	.	CDS	1	160	.	+	0	Parent=mrna_Axin2;Name=Axin2_cds
+##sequence-region AY761184 1 163
+AY761184	.	gene	1	163	.	+	.	ID=gene_AY761184;Name=AY761184_gene
+AY761184	.	mRNA	1	163	.	+	.	ID=mrna_AY761184;Parent=gene_AY761184;Name=AY761184_mrna
+AY761184	.	exon	1	163	.	+	.	Parent=mrna_AY761184;Name=AY761184_exon
+AY761184	.	CDS	1	163	.	+	0	Parent=mrna_AY761184;Name=AY761184_cds
+##sequence-region Bambi 1 166
+Bambi	.	gene	1	166	.	+	.	ID=gene_Bambi;Name=Bambi_gene
+Bambi	.	mRNA	1	166	.	+	.	ID=mrna_Bambi;Parent=gene_Bambi;Name=Bambi_mrna
+Bambi	.	exon	1	166	.	+	.	Parent=mrna_Bambi;Name=Bambi_exon
+Bambi	.	CDS	1	166	.	+	0	Parent=mrna_Bambi;Name=Bambi_cds
+##sequence-region BAX 1 155
+BAX	.	gene	1	155	.	+	.	ID=gene_BAX;Name=BAX_gene
+BAX	.	mRNA	1	155	.	+	.	ID=mrna_BAX;Parent=gene_BAX;Name=BAX_mrna
+BAX	.	exon	1	155	.	+	.	Parent=mrna_BAX;Name=BAX_exon
+BAX	.	CDS	1	155	.	+	0	Parent=mrna_BAX;Name=BAX_cds
+##sequence-region Bcl2 1 164
+Bcl2	.	gene	1	164	.	+	.	ID=gene_Bcl2;Name=Bcl2_gene
+Bcl2	.	mRNA	1	164	.	+	.	ID=mrna_Bcl2;Parent=gene_Bcl2;Name=Bcl2_mrna
+Bcl2	.	exon	1	164	.	+	.	Parent=mrna_Bcl2;Name=Bcl2_exon
+Bcl2	.	CDS	1	164	.	+	0	Parent=mrna_Bcl2;Name=Bcl2_cds
+##sequence-region Bcl2l1 1 169
+Bcl2l1	.	gene	1	169	.	+	.	ID=gene_Bcl2l1;Name=Bcl2l1_gene
+Bcl2l1	.	mRNA	1	169	.	+	.	ID=mrna_Bcl2l1;Parent=gene_Bcl2l1;Name=Bcl2l1_mrna
+Bcl2l1	.	exon	1	169	.	+	.	Parent=mrna_Bcl2l1;Name=Bcl2l1_exon
+Bcl2l1	.	CDS	1	169	.	+	0	Parent=mrna_Bcl2l1;Name=Bcl2l1_cds
+##sequence-region Bhlhe40 1 162
+Bhlhe40	.	gene	1	162	.	+	.	ID=gene_Bhlhe40;Name=Bhlhe40_gene
+Bhlhe40	.	mRNA	1	162	.	+	.	ID=mrna_Bhlhe40;Parent=gene_Bhlhe40;Name=Bhlhe40_mrna
+Bhlhe40	.	exon	1	162	.	+	.	Parent=mrna_Bhlhe40;Name=Bhlhe40_exon
+Bhlhe40	.	CDS	1	162	.	+	0	Parent=mrna_Bhlhe40;Name=Bhlhe40_cds
+##sequence-region Birc2 1 151
+Birc2	.	gene	1	151	.	+	.	ID=gene_Birc2;Name=Birc2_gene
+Birc2	.	mRNA	1	151	.	+	.	ID=mrna_Birc2;Parent=gene_Birc2;Name=Birc2_mrna
+Birc2	.	exon	1	151	.	+	.	Parent=mrna_Birc2;Name=Birc2_exon
+Birc2	.	CDS	1	151	.	+	0	Parent=mrna_Birc2;Name=Birc2_cds
+##sequence-region Birc3 1 152
+Birc3	.	gene	1	152	.	+	.	ID=gene_Birc3;Name=Birc3_gene
+Birc3	.	mRNA	1	152	.	+	.	ID=mrna_Birc3;Parent=gene_Birc3;Name=Birc3_mrna
+Birc3	.	exon	1	152	.	+	.	Parent=mrna_Birc3;Name=Birc3_exon
+Birc3	.	CDS	1	152	.	+	0	Parent=mrna_Birc3;Name=Birc3_cds
+##sequence-region Birc5 1 151
+Birc5	.	gene	1	151	.	+	.	ID=gene_Birc5;Name=Birc5_gene
+Birc5	.	mRNA	1	151	.	+	.	ID=mrna_Birc5;Parent=gene_Birc5;Name=Birc5_mrna
+Birc5	.	exon	1	151	.	+	.	Parent=mrna_Birc5;Name=Birc5_exon
+Birc5	.	CDS	1	151	.	+	0	Parent=mrna_Birc5;Name=Birc5_cds
+##sequence-region Bmi1 1 151
+Bmi1	.	gene	1	151	.	+	.	ID=gene_Bmi1;Name=Bmi1_gene
+Bmi1	.	mRNA	1	151	.	+	.	ID=mrna_Bmi1;Parent=gene_Bmi1;Name=Bmi1_mrna
+Bmi1	.	exon	1	151	.	+	.	Parent=mrna_Bmi1;Name=Bmi1_exon
+Bmi1	.	CDS	1	151	.	+	0	Parent=mrna_Bmi1;Name=Bmi1_cds
+##sequence-region Bmpr1a 1 153
+Bmpr1a	.	gene	1	153	.	+	.	ID=gene_Bmpr1a;Name=Bmpr1a_gene
+Bmpr1a	.	mRNA	1	153	.	+	.	ID=mrna_Bmpr1a;Parent=gene_Bmpr1a;Name=Bmpr1a_mrna
+Bmpr1a	.	exon	1	153	.	+	.	Parent=mrna_Bmpr1a;Name=Bmpr1a_exon
+Bmpr1a	.	CDS	1	153	.	+	0	Parent=mrna_Bmpr1a;Name=Bmpr1a_cds
+##sequence-region BTRC 1 158
+BTRC	.	gene	1	158	.	+	.	ID=gene_BTRC;Name=BTRC_gene
+BTRC	.	mRNA	1	158	.	+	.	ID=mrna_BTRC;Parent=gene_BTRC;Name=BTRC_mrna
+BTRC	.	exon	1	158	.	+	.	Parent=mrna_BTRC;Name=BTRC_exon
+BTRC	.	CDS	1	158	.	+	0	Parent=mrna_BTRC;Name=BTRC_cds
+##sequence-region Cbfa2t3 1 157
+Cbfa2t3	.	gene	1	157	.	+	.	ID=gene_Cbfa2t3;Name=Cbfa2t3_gene
+Cbfa2t3	.	mRNA	1	157	.	+	.	ID=mrna_Cbfa2t3;Parent=gene_Cbfa2t3;Name=Cbfa2t3_mrna
+Cbfa2t3	.	exon	1	157	.	+	.	Parent=mrna_Cbfa2t3;Name=Cbfa2t3_exon
+Cbfa2t3	.	CDS	1	157	.	+	0	Parent=mrna_Cbfa2t3;Name=Cbfa2t3_cds
+##sequence-region Cck 1 160
+Cck	.	gene	1	160	.	+	.	ID=gene_Cck;Name=Cck_gene
+Cck	.	mRNA	1	160	.	+	.	ID=mrna_Cck;Parent=gene_Cck;Name=Cck_mrna
+Cck	.	exon	1	160	.	+	.	Parent=mrna_Cck;Name=Cck_exon
+Cck	.	CDS	1	160	.	+	0	Parent=mrna_Cck;Name=Cck_cds
+##sequence-region Ccl6 1 151
+Ccl6	.	gene	1	151	.	+	.	ID=gene_Ccl6;Name=Ccl6_gene
+Ccl6	.	mRNA	1	151	.	+	.	ID=mrna_Ccl6;Parent=gene_Ccl6;Name=Ccl6_mrna
+Ccl6	.	exon	1	151	.	+	.	Parent=mrna_Ccl6;Name=Ccl6_exon
+Ccl6	.	CDS	1	151	.	+	0	Parent=mrna_Ccl6;Name=Ccl6_cds
+##sequence-region Ccnb1 1 152
+Ccnb1	.	gene	1	152	.	+	.	ID=gene_Ccnb1;Name=Ccnb1_gene
+Ccnb1	.	mRNA	1	152	.	+	.	ID=mrna_Ccnb1;Parent=gene_Ccnb1;Name=Ccnb1_mrna
+Ccnb1	.	exon	1	152	.	+	.	Parent=mrna_Ccnb1;Name=Ccnb1_exon
+Ccnb1	.	CDS	1	152	.	+	0	Parent=mrna_Ccnb1;Name=Ccnb1_cds
+##sequence-region Ccnd1 1 157
+Ccnd1	.	gene	1	157	.	+	.	ID=gene_Ccnd1;Name=Ccnd1_gene
+Ccnd1	.	mRNA	1	157	.	+	.	ID=mrna_Ccnd1;Parent=gene_Ccnd1;Name=Ccnd1_mrna
+Ccnd1	.	exon	1	157	.	+	.	Parent=mrna_Ccnd1;Name=Ccnd1_exon
+Ccnd1	.	CDS	1	157	.	+	0	Parent=mrna_Ccnd1;Name=Ccnd1_cds
+##sequence-region Ccne1 1 159
+Ccne1	.	gene	1	159	.	+	.	ID=gene_Ccne1;Name=Ccne1_gene
+Ccne1	.	mRNA	1	159	.	+	.	ID=mrna_Ccne1;Parent=gene_Ccne1;Name=Ccne1_mrna
+Ccne1	.	exon	1	159	.	+	.	Parent=mrna_Ccne1;Name=Ccne1_exon
+Ccne1	.	CDS	1	159	.	+	0	Parent=mrna_Ccne1;Name=Ccne1_cds
+##sequence-region CD44 1 161
+CD44	.	gene	1	161	.	+	.	ID=gene_CD44;Name=CD44_gene
+CD44	.	mRNA	1	161	.	+	.	ID=mrna_CD44;Parent=gene_CD44;Name=CD44_mrna
+CD44	.	exon	1	161	.	+	.	Parent=mrna_CD44;Name=CD44_exon
+CD44	.	CDS	1	161	.	+	0	Parent=mrna_CD44;Name=CD44_cds
+##sequence-region CDC25A 1 154
+CDC25A	.	gene	1	154	.	+	.	ID=gene_CDC25A;Name=CDC25A_gene
+CDC25A	.	mRNA	1	154	.	+	.	ID=mrna_CDC25A;Parent=gene_CDC25A;Name=CDC25A_mrna
+CDC25A	.	exon	1	154	.	+	.	Parent=mrna_CDC25A;Name=CDC25A_exon
+CDC25A	.	CDS	1	154	.	+	0	Parent=mrna_CDC25A;Name=CDC25A_cds
+##sequence-region Cdc25c 1 172
+Cdc25c	.	gene	1	172	.	+	.	ID=gene_Cdc25c;Name=Cdc25c_gene
+Cdc25c	.	mRNA	1	172	.	+	.	ID=mrna_Cdc25c;Parent=gene_Cdc25c;Name=Cdc25c_mrna
+Cdc25c	.	exon	1	172	.	+	.	Parent=mrna_Cdc25c;Name=Cdc25c_exon
+Cdc25c	.	CDS	1	172	.	+	0	Parent=mrna_Cdc25c;Name=Cdc25c_cds
+##sequence-region Cdh1 1 156
+Cdh1	.	gene	1	156	.	+	.	ID=gene_Cdh1;Name=Cdh1_gene
+Cdh1	.	mRNA	1	156	.	+	.	ID=mrna_Cdh1;Parent=gene_Cdh1;Name=Cdh1_mrna
+Cdh1	.	exon	1	156	.	+	.	Parent=mrna_Cdh1;Name=Cdh1_exon
+Cdh1	.	CDS	1	156	.	+	0	Parent=mrna_Cdh1;Name=Cdh1_cds
+##sequence-region Cdk6 1 152
+Cdk6	.	gene	1	152	.	+	.	ID=gene_Cdk6;Name=Cdk6_gene
+Cdk6	.	mRNA	1	152	.	+	.	ID=mrna_Cdk6;Parent=gene_Cdk6;Name=Cdk6_mrna
+Cdk6	.	exon	1	152	.	+	.	Parent=mrna_Cdk6;Name=Cdk6_exon
+Cdk6	.	CDS	1	152	.	+	0	Parent=mrna_Cdk6;Name=Cdk6_cds
+##sequence-region Cdkn1a 1 156
+Cdkn1a	.	gene	1	156	.	+	.	ID=gene_Cdkn1a;Name=Cdkn1a_gene
+Cdkn1a	.	mRNA	1	156	.	+	.	ID=mrna_Cdkn1a;Parent=gene_Cdkn1a;Name=Cdkn1a_mrna
+Cdkn1a	.	exon	1	156	.	+	.	Parent=mrna_Cdkn1a;Name=Cdkn1a_exon
+Cdkn1a	.	CDS	1	156	.	+	0	Parent=mrna_Cdkn1a;Name=Cdkn1a_cds
+##sequence-region Cdkn1b 1 153
+Cdkn1b	.	gene	1	153	.	+	.	ID=gene_Cdkn1b;Name=Cdkn1b_gene
+Cdkn1b	.	mRNA	1	153	.	+	.	ID=mrna_Cdkn1b;Parent=gene_Cdkn1b;Name=Cdkn1b_mrna
+Cdkn1b	.	exon	1	153	.	+	.	Parent=mrna_Cdkn1b;Name=Cdkn1b_exon
+Cdkn1b	.	CDS	1	153	.	+	0	Parent=mrna_Cdkn1b;Name=Cdkn1b_cds
+##sequence-region Cdkn3 1 155
+Cdkn3	.	gene	1	155	.	+	.	ID=gene_Cdkn3;Name=Cdkn3_gene
+Cdkn3	.	mRNA	1	155	.	+	.	ID=mrna_Cdkn3;Parent=gene_Cdkn3;Name=Cdkn3_mrna
+Cdkn3	.	exon	1	155	.	+	.	Parent=mrna_Cdkn3;Name=Cdkn3_exon
+Cdkn3	.	CDS	1	155	.	+	0	Parent=mrna_Cdkn3;Name=Cdkn3_cds
+##sequence-region Cdx2 1 167
+Cdx2	.	gene	1	167	.	+	.	ID=gene_Cdx2;Name=Cdx2_gene
+Cdx2	.	mRNA	1	167	.	+	.	ID=mrna_Cdx2;Parent=gene_Cdx2;Name=Cdx2_mrna
+Cdx2	.	exon	1	167	.	+	.	Parent=mrna_Cdx2;Name=Cdx2_exon
+Cdx2	.	CDS	1	167	.	+	0	Parent=mrna_Cdx2;Name=Cdx2_cds
+##sequence-region Ces2e 1 158
+Ces2e	.	gene	1	158	.	+	.	ID=gene_Ces2e;Name=Ces2e_gene
+Ces2e	.	mRNA	1	158	.	+	.	ID=mrna_Ces2e;Parent=gene_Ces2e;Name=Ces2e_mrna
+Ces2e	.	exon	1	158	.	+	.	Parent=mrna_Ces2e;Name=Ces2e_exon
+Ces2e	.	CDS	1	158	.	+	0	Parent=mrna_Ces2e;Name=Ces2e_cds
+##sequence-region Chga 1 167
+Chga	.	gene	1	167	.	+	.	ID=gene_Chga;Name=Chga_gene
+Chga	.	mRNA	1	167	.	+	.	ID=mrna_Chga;Parent=gene_Chga;Name=Chga_mrna
+Chga	.	exon	1	167	.	+	.	Parent=mrna_Chga;Name=Chga_exon
+Chga	.	CDS	1	167	.	+	0	Parent=mrna_Chga;Name=Chga_cds
+##sequence-region Chgb 1 162
+Chgb	.	gene	1	162	.	+	.	ID=gene_Chgb;Name=Chgb_gene
+Chgb	.	mRNA	1	162	.	+	.	ID=mrna_Chgb;Parent=gene_Chgb;Name=Chgb_mrna
+Chgb	.	exon	1	162	.	+	.	Parent=mrna_Chgb;Name=Chgb_exon
+Chgb	.	CDS	1	162	.	+	0	Parent=mrna_Chgb;Name=Chgb_cds
+##sequence-region Clca4 1 167
+Clca4	.	gene	1	167	.	+	.	ID=gene_Clca4;Name=Clca4_gene
+Clca4	.	mRNA	1	167	.	+	.	ID=mrna_Clca4;Parent=gene_Clca4;Name=Clca4_mrna
+Clca4	.	exon	1	167	.	+	.	Parent=mrna_Clca4;Name=Clca4_exon
+Clca4	.	CDS	1	167	.	+	0	Parent=mrna_Clca4;Name=Clca4_cds
+##sequence-region Clps 1 159
+Clps	.	gene	1	159	.	+	.	ID=gene_Clps;Name=Clps_gene
+Clps	.	mRNA	1	159	.	+	.	ID=mrna_Clps;Parent=gene_Clps;Name=Clps_mrna
+Clps	.	exon	1	159	.	+	.	Parent=mrna_Clps;Name=Clps_exon
+Clps	.	CDS	1	159	.	+	0	Parent=mrna_Clps;Name=Clps_cds
+##sequence-region Cox5a 1 155
+Cox5a	.	gene	1	155	.	+	.	ID=gene_Cox5a;Name=Cox5a_gene
+Cox5a	.	mRNA	1	155	.	+	.	ID=mrna_Cox5a;Parent=gene_Cox5a;Name=Cox5a_mrna
+Cox5a	.	exon	1	155	.	+	.	Parent=mrna_Cox5a;Name=Cox5a_exon
+Cox5a	.	CDS	1	155	.	+	0	Parent=mrna_Cox5a;Name=Cox5a_cds
+##sequence-region Cpe 1 170
+Cpe	.	gene	1	170	.	+	.	ID=gene_Cpe;Name=Cpe_gene
+Cpe	.	mRNA	1	170	.	+	.	ID=mrna_Cpe;Parent=gene_Cpe;Name=Cpe_mrna
+Cpe	.	exon	1	170	.	+	.	Parent=mrna_Cpe;Name=Cpe_exon
+Cpe	.	CDS	1	170	.	+	0	Parent=mrna_Cpe;Name=Cpe_cds
+##sequence-region Ctnnb1 1 151
+Ctnnb1	.	gene	1	151	.	+	.	ID=gene_Ctnnb1;Name=Ctnnb1_gene
+Ctnnb1	.	mRNA	1	151	.	+	.	ID=mrna_Ctnnb1;Parent=gene_Ctnnb1;Name=Ctnnb1_mrna
+Ctnnb1	.	exon	1	151	.	+	.	Parent=mrna_Ctnnb1;Name=Ctnnb1_exon
+Ctnnb1	.	CDS	1	151	.	+	0	Parent=mrna_Ctnnb1;Name=Ctnnb1_cds
+##sequence-region Cxcl9 1 156
+Cxcl9	.	gene	1	156	.	+	.	ID=gene_Cxcl9;Name=Cxcl9_gene
+Cxcl9	.	mRNA	1	156	.	+	.	ID=mrna_Cxcl9;Parent=gene_Cxcl9;Name=Cxcl9_mrna
+Cxcl9	.	exon	1	156	.	+	.	Parent=mrna_Cxcl9;Name=Cxcl9_exon
+Cxcl9	.	CDS	1	156	.	+	0	Parent=mrna_Cxcl9;Name=Cxcl9_cds
+##sequence-region Dach1 1 166
+Dach1	.	gene	1	166	.	+	.	ID=gene_Dach1;Name=Dach1_gene
+Dach1	.	mRNA	1	166	.	+	.	ID=mrna_Dach1;Parent=gene_Dach1;Name=Dach1_mrna
+Dach1	.	exon	1	166	.	+	.	Parent=mrna_Dach1;Name=Dach1_exon
+Dach1	.	CDS	1	166	.	+	0	Parent=mrna_Dach1;Name=Dach1_cds
+##sequence-region Dclk1 1 152
+Dclk1	.	gene	1	152	.	+	.	ID=gene_Dclk1;Name=Dclk1_gene
+Dclk1	.	mRNA	1	152	.	+	.	ID=mrna_Dclk1;Parent=gene_Dclk1;Name=Dclk1_mrna
+Dclk1	.	exon	1	152	.	+	.	Parent=mrna_Dclk1;Name=Dclk1_exon
+Dclk1	.	CDS	1	152	.	+	0	Parent=mrna_Dclk1;Name=Dclk1_cds
+##sequence-region Defa17 1 159
+Defa17	.	gene	1	159	.	+	.	ID=gene_Defa17;Name=Defa17_gene
+Defa17	.	mRNA	1	159	.	+	.	ID=mrna_Defa17;Parent=gene_Defa17;Name=Defa17_mrna
+Defa17	.	exon	1	159	.	+	.	Parent=mrna_Defa17;Name=Defa17_exon
+Defa17	.	CDS	1	159	.	+	0	Parent=mrna_Defa17;Name=Defa17_cds
+##sequence-region Defa24 1 164
+Defa24	.	gene	1	164	.	+	.	ID=gene_Defa24;Name=Defa24_gene
+Defa24	.	mRNA	1	164	.	+	.	ID=mrna_Defa24;Parent=gene_Defa24;Name=Defa24_mrna
+Defa24	.	exon	1	164	.	+	.	Parent=mrna_Defa24;Name=Defa24_exon
+Defa24	.	CDS	1	164	.	+	0	Parent=mrna_Defa24;Name=Defa24_cds
+##sequence-region Defa6 1 165
+Defa6	.	gene	1	165	.	+	.	ID=gene_Defa6;Name=Defa6_gene
+Defa6	.	mRNA	1	165	.	+	.	ID=mrna_Defa6;Parent=gene_Defa6;Name=Defa6_mrna
+Defa6	.	exon	1	165	.	+	.	Parent=mrna_Defa6;Name=Defa6_exon
+Defa6	.	CDS	1	165	.	+	0	Parent=mrna_Defa6;Name=Defa6_cds
+##sequence-region Dll1 1 155
+Dll1	.	gene	1	155	.	+	.	ID=gene_Dll1;Name=Dll1_gene
+Dll1	.	mRNA	1	155	.	+	.	ID=mrna_Dll1;Parent=gene_Dll1;Name=Dll1_mrna
+Dll1	.	exon	1	155	.	+	.	Parent=mrna_Dll1;Name=Dll1_exon
+Dll1	.	CDS	1	155	.	+	0	Parent=mrna_Dll1;Name=Dll1_cds
+##sequence-region Dmbt1 1 167
+Dmbt1	.	gene	1	167	.	+	.	ID=gene_Dmbt1;Name=Dmbt1_gene
+Dmbt1	.	mRNA	1	167	.	+	.	ID=mrna_Dmbt1;Parent=gene_Dmbt1;Name=Dmbt1_mrna
+Dmbt1	.	exon	1	167	.	+	.	Parent=mrna_Dmbt1;Name=Dmbt1_exon
+Dmbt1	.	CDS	1	167	.	+	0	Parent=mrna_Dmbt1;Name=Dmbt1_cds
+##sequence-region EGFR 1 155
+EGFR	.	gene	1	155	.	+	.	ID=gene_EGFR;Name=EGFR_gene
+EGFR	.	mRNA	1	155	.	+	.	ID=mrna_EGFR;Parent=gene_EGFR;Name=EGFR_mrna
+EGFR	.	exon	1	155	.	+	.	Parent=mrna_EGFR;Name=EGFR_exon
+EGFR	.	CDS	1	155	.	+	0	Parent=mrna_EGFR;Name=EGFR_cds
+##sequence-region EPCAM 1 167
+EPCAM	.	gene	1	167	.	+	.	ID=gene_EPCAM;Name=EPCAM_gene
+EPCAM	.	mRNA	1	167	.	+	.	ID=mrna_EPCAM;Parent=gene_EPCAM;Name=EPCAM_mrna
+EPCAM	.	exon	1	167	.	+	.	Parent=mrna_EPCAM;Name=EPCAM_exon
+EPCAM	.	CDS	1	167	.	+	0	Parent=mrna_EPCAM;Name=EPCAM_cds
+##sequence-region EphB2 1 161
+EphB2	.	gene	1	161	.	+	.	ID=gene_EphB2;Name=EphB2_gene
+EphB2	.	mRNA	1	161	.	+	.	ID=mrna_EphB2;Parent=gene_EphB2;Name=EphB2_mrna
+EphB2	.	exon	1	161	.	+	.	Parent=mrna_EphB2;Name=EphB2_exon
+EphB2	.	CDS	1	161	.	+	0	Parent=mrna_EphB2;Name=EphB2_cds
+##sequence-region Ern2 1 152
+Ern2	.	gene	1	152	.	+	.	ID=gene_Ern2;Name=Ern2_gene
+Ern2	.	mRNA	1	152	.	+	.	ID=mrna_Ern2;Parent=gene_Ern2;Name=Ern2_mrna
+Ern2	.	exon	1	152	.	+	.	Parent=mrna_Ern2;Name=Ern2_exon
+Ern2	.	CDS	1	152	.	+	0	Parent=mrna_Ern2;Name=Ern2_cds
+##sequence-region Etv4 1 171
+Etv4	.	gene	1	171	.	+	.	ID=gene_Etv4;Name=Etv4_gene
+Etv4	.	mRNA	1	171	.	+	.	ID=mrna_Etv4;Parent=gene_Etv4;Name=Etv4_mrna
+Etv4	.	exon	1	171	.	+	.	Parent=mrna_Etv4;Name=Etv4_exon
+Etv4	.	CDS	1	171	.	+	0	Parent=mrna_Etv4;Name=Etv4_cds
+##sequence-region Fabp2 1 156
+Fabp2	.	gene	1	156	.	+	.	ID=gene_Fabp2;Name=Fabp2_gene
+Fabp2	.	mRNA	1	156	.	+	.	ID=mrna_Fabp2;Parent=gene_Fabp2;Name=Fabp2_mrna
+Fabp2	.	exon	1	156	.	+	.	Parent=mrna_Fabp2;Name=Fabp2_exon
+Fabp2	.	CDS	1	156	.	+	0	Parent=mrna_Fabp2;Name=Fabp2_cds
+##sequence-region Fabp5 1 162
+Fabp5	.	gene	1	162	.	+	.	ID=gene_Fabp5;Name=Fabp5_gene
+Fabp5	.	mRNA	1	162	.	+	.	ID=mrna_Fabp5;Parent=gene_Fabp5;Name=Fabp5_mrna
+Fabp5	.	exon	1	162	.	+	.	Parent=mrna_Fabp5;Name=Fabp5_exon
+Fabp5	.	CDS	1	162	.	+	0	Parent=mrna_Fabp5;Name=Fabp5_cds
+##sequence-region FASN 1 157
+FASN	.	gene	1	157	.	+	.	ID=gene_FASN;Name=FASN_gene
+FASN	.	mRNA	1	157	.	+	.	ID=mrna_FASN;Parent=gene_FASN;Name=FASN_mrna
+FASN	.	exon	1	157	.	+	.	Parent=mrna_FASN;Name=FASN_exon
+FASN	.	CDS	1	157	.	+	0	Parent=mrna_FASN;Name=FASN_cds
+##sequence-region Fcgbp 1 157
+Fcgbp	.	gene	1	157	.	+	.	ID=gene_Fcgbp;Name=Fcgbp_gene
+Fcgbp	.	mRNA	1	157	.	+	.	ID=mrna_Fcgbp;Parent=gene_Fcgbp;Name=Fcgbp_mrna
+Fcgbp	.	exon	1	157	.	+	.	Parent=mrna_Fcgbp;Name=Fcgbp_exon
+Fcgbp	.	CDS	1	157	.	+	0	Parent=mrna_Fcgbp;Name=Fcgbp_cds
+##sequence-region Fgfbp1 1 153
+Fgfbp1	.	gene	1	153	.	+	.	ID=gene_Fgfbp1;Name=Fgfbp1_gene
+Fgfbp1	.	mRNA	1	153	.	+	.	ID=mrna_Fgfbp1;Parent=gene_Fgfbp1;Name=Fgfbp1_mrna
+Fgfbp1	.	exon	1	153	.	+	.	Parent=mrna_Fgfbp1;Name=Fgfbp1_exon
+Fgfbp1	.	CDS	1	153	.	+	0	Parent=mrna_Fgfbp1;Name=Fgfbp1_cds
+##sequence-region Gart 1 164
+Gart	.	gene	1	164	.	+	.	ID=gene_Gart;Name=Gart_gene
+Gart	.	mRNA	1	164	.	+	.	ID=mrna_Gart;Parent=gene_Gart;Name=Gart_mrna
+Gart	.	exon	1	164	.	+	.	Parent=mrna_Gart;Name=Gart_exon
+Gart	.	CDS	1	164	.	+	0	Parent=mrna_Gart;Name=Gart_cds
+##sequence-region Gdf15 1 169
+Gdf15	.	gene	1	169	.	+	.	ID=gene_Gdf15;Name=Gdf15_gene
+Gdf15	.	mRNA	1	169	.	+	.	ID=mrna_Gdf15;Parent=gene_Gdf15;Name=Gdf15_mrna
+Gdf15	.	exon	1	169	.	+	.	Parent=mrna_Gdf15;Name=Gdf15_exon
+Gdf15	.	CDS	1	169	.	+	0	Parent=mrna_Gdf15;Name=Gdf15_cds
+##sequence-region gDNA_Cpe 1 167
+gDNA_Cpe	.	gene	1	167	.	+	.	ID=gene_gDNA_Cpe;Name=gDNA_Cpe_gene
+gDNA_Cpe	.	mRNA	1	167	.	+	.	ID=mrna_gDNA_Cpe;Parent=gene_gDNA_Cpe;Name=gDNA_Cpe_mrna
+gDNA_Cpe	.	exon	1	167	.	+	.	Parent=mrna_gDNA_Cpe;Name=gDNA_Cpe_exon
+gDNA_Cpe	.	CDS	1	167	.	+	0	Parent=mrna_gDNA_Cpe;Name=gDNA_Cpe_cds
+##sequence-region gDNA_Dclk1 1 166
+gDNA_Dclk1	.	gene	1	166	.	+	.	ID=gene_gDNA_Dclk1;Name=gDNA_Dclk1_gene
+gDNA_Dclk1	.	mRNA	1	166	.	+	.	ID=mrna_gDNA_Dclk1;Parent=gene_gDNA_Dclk1;Name=gDNA_Dclk1_mrna
+gDNA_Dclk1	.	exon	1	166	.	+	.	Parent=mrna_gDNA_Dclk1;Name=gDNA_Dclk1_exon
+gDNA_Dclk1	.	CDS	1	166	.	+	0	Parent=mrna_gDNA_Dclk1;Name=gDNA_Dclk1_cds
+##sequence-region gDNA_Lgr5 1 161
+gDNA_Lgr5	.	gene	1	161	.	+	.	ID=gene_gDNA_Lgr5;Name=gDNA_Lgr5_gene
+gDNA_Lgr5	.	mRNA	1	161	.	+	.	ID=mrna_gDNA_Lgr5;Parent=gene_gDNA_Lgr5;Name=gDNA_Lgr5_mrna
+gDNA_Lgr5	.	exon	1	161	.	+	.	Parent=mrna_gDNA_Lgr5;Name=gDNA_Lgr5_exon
+gDNA_Lgr5	.	CDS	1	161	.	+	0	Parent=mrna_gDNA_Lgr5;Name=gDNA_Lgr5_cds
+##sequence-region gDNA_Olfm4 1 147
+gDNA_Olfm4	.	gene	1	147	.	+	.	ID=gene_gDNA_Olfm4;Name=gDNA_Olfm4_gene
+gDNA_Olfm4	.	mRNA	1	147	.	+	.	ID=mrna_gDNA_Olfm4;Parent=gene_gDNA_Olfm4;Name=gDNA_Olfm4_mrna
+gDNA_Olfm4	.	exon	1	147	.	+	.	Parent=mrna_gDNA_Olfm4;Name=gDNA_Olfm4_exon
+gDNA_Olfm4	.	CDS	1	147	.	+	0	Parent=mrna_gDNA_Olfm4;Name=gDNA_Olfm4_cds
+##sequence-region Ghrl 1 149
+Ghrl	.	gene	1	149	.	+	.	ID=gene_Ghrl;Name=Ghrl_gene
+Ghrl	.	mRNA	1	149	.	+	.	ID=mrna_Ghrl;Parent=gene_Ghrl;Name=Ghrl_mrna
+Ghrl	.	exon	1	149	.	+	.	Parent=mrna_Ghrl;Name=Ghrl_exon
+Ghrl	.	CDS	1	149	.	+	0	Parent=mrna_Ghrl;Name=Ghrl_cds
+##sequence-region Gip 1 153
+Gip	.	gene	1	153	.	+	.	ID=gene_Gip;Name=Gip_gene
+Gip	.	mRNA	1	153	.	+	.	ID=mrna_Gip;Parent=gene_Gip;Name=Gip_mrna
+Gip	.	exon	1	153	.	+	.	Parent=mrna_Gip;Name=Gip_exon
+Gip	.	CDS	1	153	.	+	0	Parent=mrna_Gip;Name=Gip_cds
+##sequence-region Gjb3 1 157
+Gjb3	.	gene	1	157	.	+	.	ID=gene_Gjb3;Name=Gjb3_gene
+Gjb3	.	mRNA	1	157	.	+	.	ID=mrna_Gjb3;Parent=gene_Gjb3;Name=Gjb3_mrna
+Gjb3	.	exon	1	157	.	+	.	Parent=mrna_Gjb3;Name=Gjb3_exon
+Gjb3	.	CDS	1	157	.	+	0	Parent=mrna_Gjb3;Name=Gjb3_cds
+##sequence-region Gsta4 1 160
+Gsta4	.	gene	1	160	.	+	.	ID=gene_Gsta4;Name=Gsta4_gene
+Gsta4	.	mRNA	1	160	.	+	.	ID=mrna_Gsta4;Parent=gene_Gsta4;Name=Gsta4_mrna
+Gsta4	.	exon	1	160	.	+	.	Parent=mrna_Gsta4;Name=Gsta4_exon
+Gsta4	.	CDS	1	160	.	+	0	Parent=mrna_Gsta4;Name=Gsta4_cds
+##sequence-region Gstm3 1 161
+Gstm3	.	gene	1	161	.	+	.	ID=gene_Gstm3;Name=Gstm3_gene
+Gstm3	.	mRNA	1	161	.	+	.	ID=mrna_Gstm3;Parent=gene_Gstm3;Name=Gstm3_mrna
+Gstm3	.	exon	1	161	.	+	.	Parent=mrna_Gstm3;Name=Gstm3_exon
+Gstm3	.	CDS	1	161	.	+	0	Parent=mrna_Gstm3;Name=Gstm3_cds
+##sequence-region Guca2a 1 153
+Guca2a	.	gene	1	153	.	+	.	ID=gene_Guca2a;Name=Guca2a_gene
+Guca2a	.	mRNA	1	153	.	+	.	ID=mrna_Guca2a;Parent=gene_Guca2a;Name=Guca2a_mrna
+Guca2a	.	exon	1	153	.	+	.	Parent=mrna_Guca2a;Name=Guca2a_exon
+Guca2a	.	CDS	1	153	.	+	0	Parent=mrna_Guca2a;Name=Guca2a_cds
+##sequence-region Guca2b 1 149
+Guca2b	.	gene	1	149	.	+	.	ID=gene_Guca2b;Name=Guca2b_gene
+Guca2b	.	mRNA	1	149	.	+	.	ID=mrna_Guca2b;Parent=gene_Guca2b;Name=Guca2b_mrna
+Guca2b	.	exon	1	149	.	+	.	Parent=mrna_Guca2b;Name=Guca2b_exon
+Guca2b	.	CDS	1	149	.	+	0	Parent=mrna_Guca2b;Name=Guca2b_cds
+##sequence-region Habp2 1 161
+Habp2	.	gene	1	161	.	+	.	ID=gene_Habp2;Name=Habp2_gene
+Habp2	.	mRNA	1	161	.	+	.	ID=mrna_Habp2;Parent=gene_Habp2;Name=Habp2_mrna
+Habp2	.	exon	1	161	.	+	.	Parent=mrna_Habp2;Name=Habp2_exon
+Habp2	.	CDS	1	161	.	+	0	Parent=mrna_Habp2;Name=Habp2_cds
+##sequence-region Hck 1 151
+Hck	.	gene	1	151	.	+	.	ID=gene_Hck;Name=Hck_gene
+Hck	.	mRNA	1	151	.	+	.	ID=mrna_Hck;Parent=gene_Hck;Name=Hck_mrna
+Hck	.	exon	1	151	.	+	.	Parent=mrna_Hck;Name=Hck_exon
+Hck	.	CDS	1	151	.	+	0	Parent=mrna_Hck;Name=Hck_cds
+##sequence-region Hes1 1 154
+Hes1	.	gene	1	154	.	+	.	ID=gene_Hes1;Name=Hes1_gene
+Hes1	.	mRNA	1	154	.	+	.	ID=mrna_Hes1;Parent=gene_Hes1;Name=Hes1_mrna
+Hes1	.	exon	1	154	.	+	.	Parent=mrna_Hes1;Name=Hes1_exon
+Hes1	.	CDS	1	154	.	+	0	Parent=mrna_Hes1;Name=Hes1_cds
+##sequence-region Hes6 1 160
+Hes6	.	gene	1	160	.	+	.	ID=gene_Hes6;Name=Hes6_gene
+Hes6	.	mRNA	1	160	.	+	.	ID=mrna_Hes6;Parent=gene_Hes6;Name=Hes6_mrna
+Hes6	.	exon	1	160	.	+	.	Parent=mrna_Hes6;Name=Hes6_exon
+Hes6	.	CDS	1	160	.	+	0	Parent=mrna_Hes6;Name=Hes6_cds
+##sequence-region Hmmr 1 165
+Hmmr	.	gene	1	165	.	+	.	ID=gene_Hmmr;Name=Hmmr_gene
+Hmmr	.	mRNA	1	165	.	+	.	ID=mrna_Hmmr;Parent=gene_Hmmr;Name=Hmmr_mrna
+Hmmr	.	exon	1	165	.	+	.	Parent=mrna_Hmmr;Name=Hmmr_exon
+Hmmr	.	CDS	1	165	.	+	0	Parent=mrna_Hmmr;Name=Hmmr_cds
+##sequence-region Hopx 1 159
+Hopx	.	gene	1	159	.	+	.	ID=gene_Hopx;Name=Hopx_gene
+Hopx	.	mRNA	1	159	.	+	.	ID=mrna_Hopx;Parent=gene_Hopx;Name=Hopx_mrna
+Hopx	.	exon	1	159	.	+	.	Parent=mrna_Hopx;Name=Hopx_exon
+Hopx	.	CDS	1	159	.	+	0	Parent=mrna_Hopx;Name=Hopx_cds
+##sequence-region Hoxa5 1 172
+Hoxa5	.	gene	1	172	.	+	.	ID=gene_Hoxa5;Name=Hoxa5_gene
+Hoxa5	.	mRNA	1	172	.	+	.	ID=mrna_Hoxa5;Parent=gene_Hoxa5;Name=Hoxa5_mrna
+Hoxa5	.	exon	1	172	.	+	.	Parent=mrna_Hoxa5;Name=Hoxa5_exon
+Hoxa5	.	CDS	1	172	.	+	0	Parent=mrna_Hoxa5;Name=Hoxa5_cds
+##sequence-region Hprt 1 168
+Hprt	.	gene	1	168	.	+	.	ID=gene_Hprt;Name=Hprt_gene
+Hprt	.	mRNA	1	168	.	+	.	ID=mrna_Hprt;Parent=gene_Hprt;Name=Hprt_mrna
+Hprt	.	exon	1	168	.	+	.	Parent=mrna_Hprt;Name=Hprt_exon
+Hprt	.	CDS	1	168	.	+	0	Parent=mrna_Hprt;Name=Hprt_cds
+##sequence-region Id2 1 170
+Id2	.	gene	1	170	.	+	.	ID=gene_Id2;Name=Id2_gene
+Id2	.	mRNA	1	170	.	+	.	ID=mrna_Id2;Parent=gene_Id2;Name=Id2_mrna
+Id2	.	exon	1	170	.	+	.	Parent=mrna_Id2;Name=Id2_exon
+Id2	.	CDS	1	170	.	+	0	Parent=mrna_Id2;Name=Id2_cds
+##sequence-region Id3 1 165
+Id3	.	gene	1	165	.	+	.	ID=gene_Id3;Name=Id3_gene
+Id3	.	mRNA	1	165	.	+	.	ID=mrna_Id3;Parent=gene_Id3;Name=Id3_mrna
+Id3	.	exon	1	165	.	+	.	Parent=mrna_Id3;Name=Id3_exon
+Id3	.	CDS	1	165	.	+	0	Parent=mrna_Id3;Name=Id3_cds
+##sequence-region Ifngr2 1 161
+Ifngr2	.	gene	1	161	.	+	.	ID=gene_Ifngr2;Name=Ifngr2_gene
+Ifngr2	.	mRNA	1	161	.	+	.	ID=mrna_Ifngr2;Parent=gene_Ifngr2;Name=Ifngr2_mrna
+Ifngr2	.	exon	1	161	.	+	.	Parent=mrna_Ifngr2;Name=Ifngr2_exon
+Ifngr2	.	CDS	1	161	.	+	0	Parent=mrna_Ifngr2;Name=Ifngr2_cds
+##sequence-region Ihh 1 159
+Ihh	.	gene	1	159	.	+	.	ID=gene_Ihh;Name=Ihh_gene
+Ihh	.	mRNA	1	159	.	+	.	ID=mrna_Ihh;Parent=gene_Ihh;Name=Ihh_mrna
+Ihh	.	exon	1	159	.	+	.	Parent=mrna_Ihh;Name=Ihh_exon
+Ihh	.	CDS	1	159	.	+	0	Parent=mrna_Ihh;Name=Ihh_cds
+##sequence-region Itln1 1 160
+Itln1	.	gene	1	160	.	+	.	ID=gene_Itln1;Name=Itln1_gene
+Itln1	.	mRNA	1	160	.	+	.	ID=mrna_Itln1;Parent=gene_Itln1;Name=Itln1_mrna
+Itln1	.	exon	1	160	.	+	.	Parent=mrna_Itln1;Name=Itln1_exon
+Itln1	.	CDS	1	160	.	+	0	Parent=mrna_Itln1;Name=Itln1_cds
+##sequence-region Jag1 1 151
+Jag1	.	gene	1	151	.	+	.	ID=gene_Jag1;Name=Jag1_gene
+Jag1	.	mRNA	1	151	.	+	.	ID=mrna_Jag1;Parent=gene_Jag1;Name=Jag1_mrna
+Jag1	.	exon	1	151	.	+	.	Parent=mrna_Jag1;Name=Jag1_exon
+Jag1	.	CDS	1	151	.	+	0	Parent=mrna_Jag1;Name=Jag1_cds
+##sequence-region Kras 1 151
+Kras	.	gene	1	151	.	+	.	ID=gene_Kras;Name=Kras_gene
+Kras	.	mRNA	1	151	.	+	.	ID=mrna_Kras;Parent=gene_Kras;Name=Kras_mrna
+Kras	.	exon	1	151	.	+	.	Parent=mrna_Kras;Name=Kras_exon
+Kras	.	CDS	1	151	.	+	0	Parent=mrna_Kras;Name=Kras_cds
+##sequence-region Krt18 1 155
+Krt18	.	gene	1	155	.	+	.	ID=gene_Krt18;Name=Krt18_gene
+Krt18	.	mRNA	1	155	.	+	.	ID=mrna_Krt18;Parent=gene_Krt18;Name=Krt18_mrna
+Krt18	.	exon	1	155	.	+	.	Parent=mrna_Krt18;Name=Krt18_exon
+Krt18	.	CDS	1	155	.	+	0	Parent=mrna_Krt18;Name=Krt18_cds
+##sequence-region Krt8 1 150
+Krt8	.	gene	1	150	.	+	.	ID=gene_Krt8;Name=Krt8_gene
+Krt8	.	mRNA	1	150	.	+	.	ID=mrna_Krt8;Parent=gene_Krt8;Name=Krt8_mrna
+Krt8	.	exon	1	150	.	+	.	Parent=mrna_Krt8;Name=Krt8_exon
+Krt8	.	CDS	1	150	.	+	0	Parent=mrna_Krt8;Name=Krt8_cds
+##sequence-region Lars2 1 160
+Lars2	.	gene	1	160	.	+	.	ID=gene_Lars2;Name=Lars2_gene
+Lars2	.	mRNA	1	160	.	+	.	ID=mrna_Lars2;Parent=gene_Lars2;Name=Lars2_mrna
+Lars2	.	exon	1	160	.	+	.	Parent=mrna_Lars2;Name=Lars2_exon
+Lars2	.	CDS	1	160	.	+	0	Parent=mrna_Lars2;Name=Lars2_cds
+##sequence-region Lgals2 1 148
+Lgals2	.	gene	1	148	.	+	.	ID=gene_Lgals2;Name=Lgals2_gene
+Lgals2	.	mRNA	1	148	.	+	.	ID=mrna_Lgals2;Parent=gene_Lgals2;Name=Lgals2_mrna
+Lgals2	.	exon	1	148	.	+	.	Parent=mrna_Lgals2;Name=Lgals2_exon
+Lgals2	.	CDS	1	148	.	+	0	Parent=mrna_Lgals2;Name=Lgals2_cds
+##sequence-region Lgr5 1 166
+Lgr5	.	gene	1	166	.	+	.	ID=gene_Lgr5;Name=Lgr5_gene
+Lgr5	.	mRNA	1	166	.	+	.	ID=mrna_Lgr5;Parent=gene_Lgr5;Name=Lgr5_mrna
+Lgr5	.	exon	1	166	.	+	.	Parent=mrna_Lgr5;Name=Lgr5_exon
+Lgr5	.	CDS	1	166	.	+	0	Parent=mrna_Lgr5;Name=Lgr5_cds
+##sequence-region Lrig1 1 149
+Lrig1	.	gene	1	149	.	+	.	ID=gene_Lrig1;Name=Lrig1_gene
+Lrig1	.	mRNA	1	149	.	+	.	ID=mrna_Lrig1;Parent=gene_Lrig1;Name=Lrig1_mrna
+Lrig1	.	exon	1	149	.	+	.	Parent=mrna_Lrig1;Name=Lrig1_exon
+Lrig1	.	CDS	1	149	.	+	0	Parent=mrna_Lrig1;Name=Lrig1_cds
+##sequence-region Lyz1 1 162
+Lyz1	.	gene	1	162	.	+	.	ID=gene_Lyz1;Name=Lyz1_gene
+Lyz1	.	mRNA	1	162	.	+	.	ID=mrna_Lyz1;Parent=gene_Lyz1;Name=Lyz1_mrna
+Lyz1	.	exon	1	162	.	+	.	Parent=mrna_Lyz1;Name=Lyz1_exon
+Lyz1	.	CDS	1	162	.	+	0	Parent=mrna_Lyz1;Name=Lyz1_cds
+##sequence-region Mki67 1 150
+Mki67	.	gene	1	150	.	+	.	ID=gene_Mki67;Name=Mki67_gene
+Mki67	.	mRNA	1	150	.	+	.	ID=mrna_Mki67;Parent=gene_Mki67;Name=Mki67_mrna
+Mki67	.	exon	1	150	.	+	.	Parent=mrna_Mki67;Name=Mki67_exon
+Mki67	.	CDS	1	150	.	+	0	Parent=mrna_Mki67;Name=Mki67_cds
+##sequence-region Muc2 1 164
+Muc2	.	gene	1	164	.	+	.	ID=gene_Muc2;Name=Muc2_gene
+Muc2	.	mRNA	1	164	.	+	.	ID=mrna_Muc2;Parent=gene_Muc2;Name=Muc2_mrna
+Muc2	.	exon	1	164	.	+	.	Parent=mrna_Muc2;Name=Muc2_exon
+Muc2	.	CDS	1	164	.	+	0	Parent=mrna_Muc2;Name=Muc2_cds
+##sequence-region Myc 1 158
+Myc	.	gene	1	158	.	+	.	ID=gene_Myc;Name=Myc_gene
+Myc	.	mRNA	1	158	.	+	.	ID=mrna_Myc;Parent=gene_Myc;Name=Myc_mrna
+Myc	.	exon	1	158	.	+	.	Parent=mrna_Myc;Name=Myc_exon
+Myc	.	CDS	1	158	.	+	0	Parent=mrna_Myc;Name=Myc_cds
+##sequence-region Mycbp 1 170
+Mycbp	.	gene	1	170	.	+	.	ID=gene_Mycbp;Name=Mycbp_gene
+Mycbp	.	mRNA	1	170	.	+	.	ID=mrna_Mycbp;Parent=gene_Mycbp;Name=Mycbp_mrna
+Mycbp	.	exon	1	170	.	+	.	Parent=mrna_Mycbp;Name=Mycbp_exon
+Mycbp	.	CDS	1	170	.	+	0	Parent=mrna_Mycbp;Name=Mycbp_cds
+##sequence-region Neurod1 1 156
+Neurod1	.	gene	1	156	.	+	.	ID=gene_Neurod1;Name=Neurod1_gene
+Neurod1	.	mRNA	1	156	.	+	.	ID=mrna_Neurod1;Parent=gene_Neurod1;Name=Neurod1_mrna
+Neurod1	.	exon	1	156	.	+	.	Parent=mrna_Neurod1;Name=Neurod1_exon
+Neurod1	.	CDS	1	156	.	+	0	Parent=mrna_Neurod1;Name=Neurod1_cds
+##sequence-region Neurog3 1 149
+Neurog3	.	gene	1	149	.	+	.	ID=gene_Neurog3;Name=Neurog3_gene
+Neurog3	.	mRNA	1	149	.	+	.	ID=mrna_Neurog3;Parent=gene_Neurog3;Name=Neurog3_mrna
+Neurog3	.	exon	1	149	.	+	.	Parent=mrna_Neurog3;Name=Neurog3_exon
+Neurog3	.	CDS	1	149	.	+	0	Parent=mrna_Neurog3;Name=Neurog3_cds
+##sequence-region Nfkb1 1 167
+Nfkb1	.	gene	1	167	.	+	.	ID=gene_Nfkb1;Name=Nfkb1_gene
+Nfkb1	.	mRNA	1	167	.	+	.	ID=mrna_Nfkb1;Parent=gene_Nfkb1;Name=Nfkb1_mrna
+Nfkb1	.	exon	1	167	.	+	.	Parent=mrna_Nfkb1;Name=Nfkb1_exon
+Nfkb1	.	CDS	1	167	.	+	0	Parent=mrna_Nfkb1;Name=Nfkb1_cds
+##sequence-region Nfkb2 1 154
+Nfkb2	.	gene	1	154	.	+	.	ID=gene_Nfkb2;Name=Nfkb2_gene
+Nfkb2	.	mRNA	1	154	.	+	.	ID=mrna_Nfkb2;Parent=gene_Nfkb2;Name=Nfkb2_mrna
+Nfkb2	.	exon	1	154	.	+	.	Parent=mrna_Nfkb2;Name=Nfkb2_exon
+Nfkb2	.	CDS	1	154	.	+	0	Parent=mrna_Nfkb2;Name=Nfkb2_cds
+##sequence-region NFKBIA 1 159
+NFKBIA	.	gene	1	159	.	+	.	ID=gene_NFKBIA;Name=NFKBIA_gene
+NFKBIA	.	mRNA	1	159	.	+	.	ID=mrna_NFKBIA;Parent=gene_NFKBIA;Name=NFKBIA_mrna
+NFKBIA	.	exon	1	159	.	+	.	Parent=mrna_NFKBIA;Name=NFKBIA_exon
+NFKBIA	.	CDS	1	159	.	+	0	Parent=mrna_NFKBIA;Name=NFKBIA_cds
+##sequence-region Notch1 1 168
+Notch1	.	gene	1	168	.	+	.	ID=gene_Notch1;Name=Notch1_gene
+Notch1	.	mRNA	1	168	.	+	.	ID=mrna_Notch1;Parent=gene_Notch1;Name=Notch1_mrna
+Notch1	.	exon	1	168	.	+	.	Parent=mrna_Notch1;Name=Notch1_exon
+Notch1	.	CDS	1	168	.	+	0	Parent=mrna_Notch1;Name=Notch1_cds
+##sequence-region Notch2 1 158
+Notch2	.	gene	1	158	.	+	.	ID=gene_Notch2;Name=Notch2_gene
+Notch2	.	mRNA	1	158	.	+	.	ID=mrna_Notch2;Parent=gene_Notch2;Name=Notch2_mrna
+Notch2	.	exon	1	158	.	+	.	Parent=mrna_Notch2;Name=Notch2_exon
+Notch2	.	CDS	1	158	.	+	0	Parent=mrna_Notch2;Name=Notch2_cds
+##sequence-region NRAS 1 166
+NRAS	.	gene	1	166	.	+	.	ID=gene_NRAS;Name=NRAS_gene
+NRAS	.	mRNA	1	166	.	+	.	ID=mrna_NRAS;Parent=gene_NRAS;Name=NRAS_mrna
+NRAS	.	exon	1	166	.	+	.	Parent=mrna_NRAS;Name=NRAS_exon
+NRAS	.	CDS	1	166	.	+	0	Parent=mrna_NRAS;Name=NRAS_cds
+##sequence-region Nupr1 1 165
+Nupr1	.	gene	1	165	.	+	.	ID=gene_Nupr1;Name=Nupr1_gene
+Nupr1	.	mRNA	1	165	.	+	.	ID=mrna_Nupr1;Parent=gene_Nupr1;Name=Nupr1_mrna
+Nupr1	.	exon	1	165	.	+	.	Parent=mrna_Nupr1;Name=Nupr1_exon
+Nupr1	.	CDS	1	165	.	+	0	Parent=mrna_Nupr1;Name=Nupr1_cds
+##sequence-region Olfm4 1 166
+Olfm4	.	gene	1	166	.	+	.	ID=gene_Olfm4;Name=Olfm4_gene
+Olfm4	.	mRNA	1	166	.	+	.	ID=mrna_Olfm4;Parent=gene_Olfm4;Name=Olfm4_mrna
+Olfm4	.	exon	1	166	.	+	.	Parent=mrna_Olfm4;Name=Olfm4_exon
+Olfm4	.	CDS	1	166	.	+	0	Parent=mrna_Olfm4;Name=Olfm4_cds
+##sequence-region Pdia6 1 163
+Pdia6	.	gene	1	163	.	+	.	ID=gene_Pdia6;Name=Pdia6_gene
+Pdia6	.	mRNA	1	163	.	+	.	ID=mrna_Pdia6;Parent=gene_Pdia6;Name=Pdia6_mrna
+Pdia6	.	exon	1	163	.	+	.	Parent=mrna_Pdia6;Name=Pdia6_exon
+Pdia6	.	CDS	1	163	.	+	0	Parent=mrna_Pdia6;Name=Pdia6_cds
+##sequence-region Pdlim2 1 159
+Pdlim2	.	gene	1	159	.	+	.	ID=gene_Pdlim2;Name=Pdlim2_gene
+Pdlim2	.	mRNA	1	159	.	+	.	ID=mrna_Pdlim2;Parent=gene_Pdlim2;Name=Pdlim2_mrna
+Pdlim2	.	exon	1	159	.	+	.	Parent=mrna_Pdlim2;Name=Pdlim2_exon
+Pdlim2	.	CDS	1	159	.	+	0	Parent=mrna_Pdlim2;Name=Pdlim2_cds
+##sequence-region Phlda2 1 150
+Phlda2	.	gene	1	150	.	+	.	ID=gene_Phlda2;Name=Phlda2_gene
+Phlda2	.	mRNA	1	150	.	+	.	ID=mrna_Phlda2;Parent=gene_Phlda2;Name=Phlda2_mrna
+Phlda2	.	exon	1	150	.	+	.	Parent=mrna_Phlda2;Name=Phlda2_exon
+Phlda2	.	CDS	1	150	.	+	0	Parent=mrna_Phlda2;Name=Phlda2_cds
+##sequence-region Pkp1 1 165
+Pkp1	.	gene	1	165	.	+	.	ID=gene_Pkp1;Name=Pkp1_gene
+Pkp1	.	mRNA	1	165	.	+	.	ID=mrna_Pkp1;Parent=gene_Pkp1;Name=Pkp1_mrna
+Pkp1	.	exon	1	165	.	+	.	Parent=mrna_Pkp1;Name=Pkp1_exon
+Pkp1	.	CDS	1	165	.	+	0	Parent=mrna_Pkp1;Name=Pkp1_cds
+##sequence-region Pla2g2a 1 168
+Pla2g2a	.	gene	1	168	.	+	.	ID=gene_Pla2g2a;Name=Pla2g2a_gene
+Pla2g2a	.	mRNA	1	168	.	+	.	ID=mrna_Pla2g2a;Parent=gene_Pla2g2a;Name=Pla2g2a_mrna
+Pla2g2a	.	exon	1	168	.	+	.	Parent=mrna_Pla2g2a;Name=Pla2g2a_exon
+Pla2g2a	.	CDS	1	168	.	+	0	Parent=mrna_Pla2g2a;Name=Pla2g2a_cds
+##sequence-region Plcg2 1 159
+Plcg2	.	gene	1	159	.	+	.	ID=gene_Plcg2;Name=Plcg2_gene
+Plcg2	.	mRNA	1	159	.	+	.	ID=mrna_Plcg2;Parent=gene_Plcg2;Name=Plcg2_mrna
+Plcg2	.	exon	1	159	.	+	.	Parent=mrna_Plcg2;Name=Plcg2_exon
+Plcg2	.	CDS	1	159	.	+	0	Parent=mrna_Plcg2;Name=Plcg2_cds
+##sequence-region Polr2a 1 155
+Polr2a	.	gene	1	155	.	+	.	ID=gene_Polr2a;Name=Polr2a_gene
+Polr2a	.	mRNA	1	155	.	+	.	ID=mrna_Polr2a;Parent=gene_Polr2a;Name=Polr2a_mrna
+Polr2a	.	exon	1	155	.	+	.	Parent=mrna_Polr2a;Name=Polr2a_exon
+Polr2a	.	CDS	1	155	.	+	0	Parent=mrna_Polr2a;Name=Polr2a_cds
+##sequence-region PORCN 1 155
+PORCN	.	gene	1	155	.	+	.	ID=gene_PORCN;Name=PORCN_gene
+PORCN	.	mRNA	1	155	.	+	.	ID=mrna_PORCN;Parent=gene_PORCN;Name=PORCN_mrna
+PORCN	.	exon	1	155	.	+	.	Parent=mrna_PORCN;Name=PORCN_exon
+PORCN	.	CDS	1	155	.	+	0	Parent=mrna_PORCN;Name=PORCN_cds
+##sequence-region Pou2f3 1 160
+Pou2f3	.	gene	1	160	.	+	.	ID=gene_Pou2f3;Name=Pou2f3_gene
+Pou2f3	.	mRNA	1	160	.	+	.	ID=mrna_Pou2f3;Parent=gene_Pou2f3;Name=Pou2f3_mrna
+Pou2f3	.	exon	1	160	.	+	.	Parent=mrna_Pou2f3;Name=Pou2f3_exon
+Pou2f3	.	CDS	1	160	.	+	0	Parent=mrna_Pou2f3;Name=Pou2f3_cds
+##sequence-region PPAT 1 151
+PPAT	.	gene	1	151	.	+	.	ID=gene_PPAT;Name=PPAT_gene
+PPAT	.	mRNA	1	151	.	+	.	ID=mrna_PPAT;Parent=gene_PPAT;Name=PPAT_mrna
+PPAT	.	exon	1	151	.	+	.	Parent=mrna_PPAT;Name=PPAT_exon
+PPAT	.	CDS	1	151	.	+	0	Parent=mrna_PPAT;Name=PPAT_cds
+##sequence-region ppp2cb 1 155
+ppp2cb	.	gene	1	155	.	+	.	ID=gene_ppp2cb;Name=ppp2cb_gene
+ppp2cb	.	mRNA	1	155	.	+	.	ID=mrna_ppp2cb;Parent=gene_ppp2cb;Name=ppp2cb_mrna
+ppp2cb	.	exon	1	155	.	+	.	Parent=mrna_ppp2cb;Name=ppp2cb_exon
+ppp2cb	.	CDS	1	155	.	+	0	Parent=mrna_ppp2cb;Name=ppp2cb_cds
+##sequence-region Prap1 1 152
+Prap1	.	gene	1	152	.	+	.	ID=gene_Prap1;Name=Prap1_gene
+Prap1	.	mRNA	1	152	.	+	.	ID=mrna_Prap1;Parent=gene_Prap1;Name=Prap1_mrna
+Prap1	.	exon	1	152	.	+	.	Parent=mrna_Prap1;Name=Prap1_exon
+Prap1	.	CDS	1	152	.	+	0	Parent=mrna_Prap1;Name=Prap1_cds
+##sequence-region Prelp 1 152
+Prelp	.	gene	1	152	.	+	.	ID=gene_Prelp;Name=Prelp_gene
+Prelp	.	mRNA	1	152	.	+	.	ID=mrna_Prelp;Parent=gene_Prelp;Name=Prelp_mrna
+Prelp	.	exon	1	152	.	+	.	Parent=mrna_Prelp;Name=Prelp_exon
+Prelp	.	CDS	1	152	.	+	0	Parent=mrna_Prelp;Name=Prelp_cds
+##sequence-region Prom1 1 149
+Prom1	.	gene	1	149	.	+	.	ID=gene_Prom1;Name=Prom1_gene
+Prom1	.	mRNA	1	149	.	+	.	ID=mrna_Prom1;Parent=gene_Prom1;Name=Prom1_mrna
+Prom1	.	exon	1	149	.	+	.	Parent=mrna_Prom1;Name=Prom1_exon
+Prom1	.	CDS	1	149	.	+	0	Parent=mrna_Prom1;Name=Prom1_cds
+##sequence-region Prox1 1 153
+Prox1	.	gene	1	153	.	+	.	ID=gene_Prox1;Name=Prox1_gene
+Prox1	.	mRNA	1	153	.	+	.	ID=mrna_Prox1;Parent=gene_Prox1;Name=Prox1_mrna
+Prox1	.	exon	1	153	.	+	.	Parent=mrna_Prox1;Name=Prox1_exon
+Prox1	.	CDS	1	153	.	+	0	Parent=mrna_Prox1;Name=Prox1_cds
+##sequence-region Ptch1 1 163
+Ptch1	.	gene	1	163	.	+	.	ID=gene_Ptch1;Name=Ptch1_gene
+Ptch1	.	mRNA	1	163	.	+	.	ID=mrna_Ptch1;Parent=gene_Ptch1;Name=Ptch1_mrna
+Ptch1	.	exon	1	163	.	+	.	Parent=mrna_Ptch1;Name=Ptch1_exon
+Ptch1	.	CDS	1	163	.	+	0	Parent=mrna_Ptch1;Name=Ptch1_cds
+##sequence-region RARa 1 154
+RARa	.	gene	1	154	.	+	.	ID=gene_RARa;Name=RARa_gene
+RARa	.	mRNA	1	154	.	+	.	ID=mrna_RARa;Parent=gene_RARa;Name=RARa_mrna
+RARa	.	exon	1	154	.	+	.	Parent=mrna_RARa;Name=RARa_exon
+RARa	.	CDS	1	154	.	+	0	Parent=mrna_RARa;Name=RARa_cds
+##sequence-region Rbbp4 1 153
+Rbbp4	.	gene	1	153	.	+	.	ID=gene_Rbbp4;Name=Rbbp4_gene
+Rbbp4	.	mRNA	1	153	.	+	.	ID=mrna_Rbbp4;Parent=gene_Rbbp4;Name=Rbbp4_mrna
+Rbbp4	.	exon	1	153	.	+	.	Parent=mrna_Rbbp4;Name=Rbbp4_exon
+Rbbp4	.	CDS	1	153	.	+	0	Parent=mrna_Rbbp4;Name=Rbbp4_cds
+##sequence-region Rbp7 1 171
+Rbp7	.	gene	1	171	.	+	.	ID=gene_Rbp7;Name=Rbp7_gene
+Rbp7	.	mRNA	1	171	.	+	.	ID=mrna_Rbp7;Parent=gene_Rbp7;Name=Rbp7_mrna
+Rbp7	.	exon	1	171	.	+	.	Parent=mrna_Rbp7;Name=Rbp7_exon
+Rbp7	.	CDS	1	171	.	+	0	Parent=mrna_Rbp7;Name=Rbp7_cds
+##sequence-region Rbpj 1 157
+Rbpj	.	gene	1	157	.	+	.	ID=gene_Rbpj;Name=Rbpj_gene
+Rbpj	.	mRNA	1	157	.	+	.	ID=mrna_Rbpj;Parent=gene_Rbpj;Name=Rbpj_mrna
+Rbpj	.	exon	1	157	.	+	.	Parent=mrna_Rbpj;Name=Rbpj_exon
+Rbpj	.	CDS	1	157	.	+	0	Parent=mrna_Rbpj;Name=Rbpj_cds
+##sequence-region Reg1 1 153
+Reg1	.	gene	1	153	.	+	.	ID=gene_Reg1;Name=Reg1_gene
+Reg1	.	mRNA	1	153	.	+	.	ID=mrna_Reg1;Parent=gene_Reg1;Name=Reg1_mrna
+Reg1	.	exon	1	153	.	+	.	Parent=mrna_Reg1;Name=Reg1_exon
+Reg1	.	CDS	1	153	.	+	0	Parent=mrna_Reg1;Name=Reg1_cds
+##sequence-region Rela 1 155
+Rela	.	gene	1	155	.	+	.	ID=gene_Rela;Name=Rela_gene
+Rela	.	mRNA	1	155	.	+	.	ID=mrna_Rela;Parent=gene_Rela;Name=Rela_mrna
+Rela	.	exon	1	155	.	+	.	Parent=mrna_Rela;Name=Rela_exon
+Rela	.	CDS	1	155	.	+	0	Parent=mrna_Rela;Name=Rela_cds
+##sequence-region Rgmb 1 161
+Rgmb	.	gene	1	161	.	+	.	ID=gene_Rgmb;Name=Rgmb_gene
+Rgmb	.	mRNA	1	161	.	+	.	ID=mrna_Rgmb;Parent=gene_Rgmb;Name=Rgmb_mrna
+Rgmb	.	exon	1	161	.	+	.	Parent=mrna_Rgmb;Name=Rgmb_exon
+Rgmb	.	CDS	1	161	.	+	0	Parent=mrna_Rgmb;Name=Rgmb_cds
+##sequence-region Rictor 1 151
+Rictor	.	gene	1	151	.	+	.	ID=gene_Rictor;Name=Rictor_gene
+Rictor	.	mRNA	1	151	.	+	.	ID=mrna_Rictor;Parent=gene_Rictor;Name=Rictor_mrna
+Rictor	.	exon	1	151	.	+	.	Parent=mrna_Rictor;Name=Rictor_exon
+Rictor	.	CDS	1	151	.	+	0	Parent=mrna_Rictor;Name=Rictor_cds
+##sequence-region Rnf32 1 152
+Rnf32	.	gene	1	152	.	+	.	ID=gene_Rnf32;Name=Rnf32_gene
+Rnf32	.	mRNA	1	152	.	+	.	ID=mrna_Rnf32;Parent=gene_Rnf32;Name=Rnf32_mrna
+Rnf32	.	exon	1	152	.	+	.	Parent=mrna_Rnf32;Name=Rnf32_exon
+Rnf32	.	CDS	1	152	.	+	0	Parent=mrna_Rnf32;Name=Rnf32_cds
+##sequence-region Rnf43 1 161
+Rnf43	.	gene	1	161	.	+	.	ID=gene_Rnf43;Name=Rnf43_gene
+Rnf43	.	mRNA	1	161	.	+	.	ID=mrna_Rnf43;Parent=gene_Rnf43;Name=Rnf43_mrna
+Rnf43	.	exon	1	161	.	+	.	Parent=mrna_Rnf43;Name=Rnf43_exon
+Rnf43	.	CDS	1	161	.	+	0	Parent=mrna_Rnf43;Name=Rnf43_cds
+##sequence-region Scd2 1 161
+Scd2	.	gene	1	161	.	+	.	ID=gene_Scd2;Name=Scd2_gene
+Scd2	.	mRNA	1	161	.	+	.	ID=mrna_Scd2;Parent=gene_Scd2;Name=Scd2_mrna
+Scd2	.	exon	1	161	.	+	.	Parent=mrna_Scd2;Name=Scd2_exon
+Scd2	.	CDS	1	161	.	+	0	Parent=mrna_Scd2;Name=Scd2_cds
+##sequence-region Scgn 1 151
+Scgn	.	gene	1	151	.	+	.	ID=gene_Scgn;Name=Scgn_gene
+Scgn	.	mRNA	1	151	.	+	.	ID=mrna_Scgn;Parent=gene_Scgn;Name=Scgn_mrna
+Scgn	.	exon	1	151	.	+	.	Parent=mrna_Scgn;Name=Scgn_exon
+Scgn	.	CDS	1	151	.	+	0	Parent=mrna_Scgn;Name=Scgn_cds
+##sequence-region Sct 1 165
+Sct	.	gene	1	165	.	+	.	ID=gene_Sct;Name=Sct_gene
+Sct	.	mRNA	1	165	.	+	.	ID=mrna_Sct;Parent=gene_Sct;Name=Sct_mrna
+Sct	.	exon	1	165	.	+	.	Parent=mrna_Sct;Name=Sct_exon
+Sct	.	CDS	1	165	.	+	0	Parent=mrna_Sct;Name=Sct_cds
+##sequence-region Sec61g 1 151
+Sec61g	.	gene	1	151	.	+	.	ID=gene_Sec61g;Name=Sec61g_gene
+Sec61g	.	mRNA	1	151	.	+	.	ID=mrna_Sec61g;Parent=gene_Sec61g;Name=Sec61g_mrna
+Sec61g	.	exon	1	151	.	+	.	Parent=mrna_Sec61g;Name=Sec61g_exon
+Sec61g	.	CDS	1	151	.	+	0	Parent=mrna_Sec61g;Name=Sec61g_cds
+##sequence-region Shmt1 1 154
+Shmt1	.	gene	1	154	.	+	.	ID=gene_Shmt1;Name=Shmt1_gene
+Shmt1	.	mRNA	1	154	.	+	.	ID=mrna_Shmt1;Parent=gene_Shmt1;Name=Shmt1_mrna
+Shmt1	.	exon	1	154	.	+	.	Parent=mrna_Shmt1;Name=Shmt1_exon
+Shmt1	.	CDS	1	154	.	+	0	Parent=mrna_Shmt1;Name=Shmt1_cds
+##sequence-region Shmt2 1 161
+Shmt2	.	gene	1	161	.	+	.	ID=gene_Shmt2;Name=Shmt2_gene
+Shmt2	.	mRNA	1	161	.	+	.	ID=mrna_Shmt2;Parent=gene_Shmt2;Name=Shmt2_mrna
+Shmt2	.	exon	1	161	.	+	.	Parent=mrna_Shmt2;Name=Shmt2_exon
+Shmt2	.	CDS	1	161	.	+	0	Parent=mrna_Shmt2;Name=Shmt2_cds
+##sequence-region Sis 1 150
+Sis	.	gene	1	150	.	+	.	ID=gene_Sis;Name=Sis_gene
+Sis	.	mRNA	1	150	.	+	.	ID=mrna_Sis;Parent=gene_Sis;Name=Sis_mrna
+Sis	.	exon	1	150	.	+	.	Parent=mrna_Sis;Name=Sis_exon
+Sis	.	CDS	1	150	.	+	0	Parent=mrna_Sis;Name=Sis_cds
+##sequence-region Slc12a2 1 167
+Slc12a2	.	gene	1	167	.	+	.	ID=gene_Slc12a2;Name=Slc12a2_gene
+Slc12a2	.	mRNA	1	167	.	+	.	ID=mrna_Slc12a2;Parent=gene_Slc12a2;Name=Slc12a2_mrna
+Slc12a2	.	exon	1	167	.	+	.	Parent=mrna_Slc12a2;Name=Slc12a2_exon
+Slc12a2	.	CDS	1	167	.	+	0	Parent=mrna_Slc12a2;Name=Slc12a2_cds
+##sequence-region Soat1 1 161
+Soat1	.	gene	1	161	.	+	.	ID=gene_Soat1;Name=Soat1_gene
+Soat1	.	mRNA	1	161	.	+	.	ID=mrna_Soat1;Parent=gene_Soat1;Name=Soat1_mrna
+Soat1	.	exon	1	161	.	+	.	Parent=mrna_Soat1;Name=Soat1_exon
+Soat1	.	CDS	1	161	.	+	0	Parent=mrna_Soat1;Name=Soat1_cds
+##sequence-region Socs3 1 159
+Socs3	.	gene	1	159	.	+	.	ID=gene_Socs3;Name=Socs3_gene
+Socs3	.	mRNA	1	159	.	+	.	ID=mrna_Socs3;Parent=gene_Socs3;Name=Socs3_mrna
+Socs3	.	exon	1	159	.	+	.	Parent=mrna_Socs3;Name=Socs3_exon
+Socs3	.	CDS	1	159	.	+	0	Parent=mrna_Socs3;Name=Socs3_cds
+##sequence-region Sox9 1 162
+Sox9	.	gene	1	162	.	+	.	ID=gene_Sox9;Name=Sox9_gene
+Sox9	.	mRNA	1	162	.	+	.	ID=mrna_Sox9;Parent=gene_Sox9;Name=Sox9_mrna
+Sox9	.	exon	1	162	.	+	.	Parent=mrna_Sox9;Name=Sox9_exon
+Sox9	.	CDS	1	162	.	+	0	Parent=mrna_Sox9;Name=Sox9_cds
+##sequence-region Spink4 1 152
+Spink4	.	gene	1	152	.	+	.	ID=gene_Spink4;Name=Spink4_gene
+Spink4	.	mRNA	1	152	.	+	.	ID=mrna_Spink4;Parent=gene_Spink4;Name=Spink4_mrna
+Spink4	.	exon	1	152	.	+	.	Parent=mrna_Spink4;Name=Spink4_exon
+Spink4	.	CDS	1	152	.	+	0	Parent=mrna_Spink4;Name=Spink4_cds
+##sequence-region Sst 1 157
+Sst	.	gene	1	157	.	+	.	ID=gene_Sst;Name=Sst_gene
+Sst	.	mRNA	1	157	.	+	.	ID=mrna_Sst;Parent=gene_Sst;Name=Sst_mrna
+Sst	.	exon	1	157	.	+	.	Parent=mrna_Sst;Name=Sst_exon
+Sst	.	CDS	1	157	.	+	0	Parent=mrna_Sst;Name=Sst_cds
+##sequence-region Stat1 1 163
+Stat1	.	gene	1	163	.	+	.	ID=gene_Stat1;Name=Stat1_gene
+Stat1	.	mRNA	1	163	.	+	.	ID=mrna_Stat1;Parent=gene_Stat1;Name=Stat1_mrna
+Stat1	.	exon	1	163	.	+	.	Parent=mrna_Stat1;Name=Stat1_exon
+Stat1	.	CDS	1	163	.	+	0	Parent=mrna_Stat1;Name=Stat1_cds
+##sequence-region Tac1 1 148
+Tac1	.	gene	1	148	.	+	.	ID=gene_Tac1;Name=Tac1_gene
+Tac1	.	mRNA	1	148	.	+	.	ID=mrna_Tac1;Parent=gene_Tac1;Name=Tac1_mrna
+Tac1	.	exon	1	148	.	+	.	Parent=mrna_Tac1;Name=Tac1_exon
+Tac1	.	CDS	1	148	.	+	0	Parent=mrna_Tac1;Name=Tac1_cds
+##sequence-region TBP 1 147
+TBP	.	gene	1	147	.	+	.	ID=gene_TBP;Name=TBP_gene
+TBP	.	mRNA	1	147	.	+	.	ID=mrna_TBP;Parent=gene_TBP;Name=TBP_mrna
+TBP	.	exon	1	147	.	+	.	Parent=mrna_TBP;Name=TBP_exon
+TBP	.	CDS	1	147	.	+	0	Parent=mrna_TBP;Name=TBP_cds
+##sequence-region Tcf7l2_iso1 1 157
+Tcf7l2_iso1	.	gene	1	157	.	+	.	ID=gene_Tcf7l2_iso1;Name=Tcf7l2_iso1_gene
+Tcf7l2_iso1	.	mRNA	1	157	.	+	.	ID=mrna_Tcf7l2_iso1;Parent=gene_Tcf7l2_iso1;Name=Tcf7l2_iso1_mrna
+Tcf7l2_iso1	.	exon	1	157	.	+	.	Parent=mrna_Tcf7l2_iso1;Name=Tcf7l2_iso1_exon
+Tcf7l2_iso1	.	CDS	1	157	.	+	0	Parent=mrna_Tcf7l2_iso1;Name=Tcf7l2_iso1_cds
+##sequence-region Tcf7l2_iso2 1 161
+Tcf7l2_iso2	.	gene	1	161	.	+	.	ID=gene_Tcf7l2_iso2;Name=Tcf7l2_iso2_gene
+Tcf7l2_iso2	.	mRNA	1	161	.	+	.	ID=mrna_Tcf7l2_iso2;Parent=gene_Tcf7l2_iso2;Name=Tcf7l2_iso2_mrna
+Tcf7l2_iso2	.	exon	1	161	.	+	.	Parent=mrna_Tcf7l2_iso2;Name=Tcf7l2_iso2_exon
+Tcf7l2_iso2	.	CDS	1	161	.	+	0	Parent=mrna_Tcf7l2_iso2;Name=Tcf7l2_iso2_cds
+##sequence-region Tff3 1 155
+Tff3	.	gene	1	155	.	+	.	ID=gene_Tff3;Name=Tff3_gene
+Tff3	.	mRNA	1	155	.	+	.	ID=mrna_Tff3;Parent=gene_Tff3;Name=Tff3_mrna
+Tff3	.	exon	1	155	.	+	.	Parent=mrna_Tff3;Name=Tff3_exon
+Tff3	.	CDS	1	155	.	+	0	Parent=mrna_Tff3;Name=Tff3_cds
+##sequence-region Tmem176b 1 170
+Tmem176b	.	gene	1	170	.	+	.	ID=gene_Tmem176b;Name=Tmem176b_gene
+Tmem176b	.	mRNA	1	170	.	+	.	ID=mrna_Tmem176b;Parent=gene_Tmem176b;Name=Tmem176b_mrna
+Tmem176b	.	exon	1	170	.	+	.	Parent=mrna_Tmem176b;Name=Tmem176b_exon
+Tmem176b	.	CDS	1	170	.	+	0	Parent=mrna_Tmem176b;Name=Tmem176b_cds
+##sequence-region Tmsb10 1 165
+Tmsb10	.	gene	1	165	.	+	.	ID=gene_Tmsb10;Name=Tmsb10_gene
+Tmsb10	.	mRNA	1	165	.	+	.	ID=mrna_Tmsb10;Parent=gene_Tmsb10;Name=Tmsb10_mrna
+Tmsb10	.	exon	1	165	.	+	.	Parent=mrna_Tmsb10;Name=Tmsb10_exon
+Tmsb10	.	CDS	1	165	.	+	0	Parent=mrna_Tmsb10;Name=Tmsb10_cds
+##sequence-region Tnf 1 160
+Tnf	.	gene	1	160	.	+	.	ID=gene_Tnf;Name=Tnf_gene
+Tnf	.	mRNA	1	160	.	+	.	ID=mrna_Tnf;Parent=gene_Tnf;Name=Tnf_mrna
+Tnf	.	exon	1	160	.	+	.	Parent=mrna_Tnf;Name=Tnf_exon
+Tnf	.	CDS	1	160	.	+	0	Parent=mrna_Tnf;Name=Tnf_cds
+##sequence-region Tnfrsf19 1 169
+Tnfrsf19	.	gene	1	169	.	+	.	ID=gene_Tnfrsf19;Name=Tnfrsf19_gene
+Tnfrsf19	.	mRNA	1	169	.	+	.	ID=mrna_Tnfrsf19;Parent=gene_Tnfrsf19;Name=Tnfrsf19_mrna
+Tnfrsf19	.	exon	1	169	.	+	.	Parent=mrna_Tnfrsf19;Name=Tnfrsf19_exon
+Tnfrsf19	.	CDS	1	169	.	+	0	Parent=mrna_Tnfrsf19;Name=Tnfrsf19_cds
+##sequence-region Tph1 1 160
+Tph1	.	gene	1	160	.	+	.	ID=gene_Tph1;Name=Tph1_gene
+Tph1	.	mRNA	1	160	.	+	.	ID=mrna_Tph1;Parent=gene_Tph1;Name=Tph1_mrna
+Tph1	.	exon	1	160	.	+	.	Parent=mrna_Tph1;Name=Tph1_exon
+Tph1	.	CDS	1	160	.	+	0	Parent=mrna_Tph1;Name=Tph1_cds
+##sequence-region Trim31 1 162
+Trim31	.	gene	1	162	.	+	.	ID=gene_Trim31;Name=Trim31_gene
+Trim31	.	mRNA	1	162	.	+	.	ID=mrna_Trim31;Parent=gene_Trim31;Name=Trim31_mrna
+Trim31	.	exon	1	162	.	+	.	Parent=mrna_Trim31;Name=Trim31_exon
+Trim31	.	CDS	1	162	.	+	0	Parent=mrna_Trim31;Name=Trim31_cds
+##sequence-region Trp53 1 161
+Trp53	.	gene	1	161	.	+	.	ID=gene_Trp53;Name=Trp53_gene
+Trp53	.	mRNA	1	161	.	+	.	ID=mrna_Trp53;Parent=gene_Trp53;Name=Trp53_mrna
+Trp53	.	exon	1	161	.	+	.	Parent=mrna_Trp53;Name=Trp53_exon
+Trp53	.	CDS	1	161	.	+	0	Parent=mrna_Trp53;Name=Trp53_cds
+##sequence-region Trpm5 1 162
+Trpm5	.	gene	1	162	.	+	.	ID=gene_Trpm5;Name=Trpm5_gene
+Trpm5	.	mRNA	1	162	.	+	.	ID=mrna_Trpm5;Parent=gene_Trpm5;Name=Trpm5_mrna
+Trpm5	.	exon	1	162	.	+	.	Parent=mrna_Trpm5;Name=Trpm5_exon
+Trpm5	.	CDS	1	162	.	+	0	Parent=mrna_Trpm5;Name=Trpm5_cds
+##sequence-region Tuba4a 1 159
+Tuba4a	.	gene	1	159	.	+	.	ID=gene_Tuba4a;Name=Tuba4a_gene
+Tuba4a	.	mRNA	1	159	.	+	.	ID=mrna_Tuba4a;Parent=gene_Tuba4a;Name=Tuba4a_mrna
+Tuba4a	.	exon	1	159	.	+	.	Parent=mrna_Tuba4a;Name=Tuba4a_exon
+Tuba4a	.	CDS	1	159	.	+	0	Parent=mrna_Tuba4a;Name=Tuba4a_cds
+##sequence-region Tubb2c 1 152
+Tubb2c	.	gene	1	152	.	+	.	ID=gene_Tubb2c;Name=Tubb2c_gene
+Tubb2c	.	mRNA	1	152	.	+	.	ID=mrna_Tubb2c;Parent=gene_Tubb2c;Name=Tubb2c_mrna
+Tubb2c	.	exon	1	152	.	+	.	Parent=mrna_Tubb2c;Name=Tubb2c_exon
+Tubb2c	.	CDS	1	152	.	+	0	Parent=mrna_Tubb2c;Name=Tubb2c_cds
+##sequence-region Txndc5 1 168
+Txndc5	.	gene	1	168	.	+	.	ID=gene_Txndc5;Name=Txndc5_gene
+Txndc5	.	mRNA	1	168	.	+	.	ID=mrna_Txndc5;Parent=gene_Txndc5;Name=Txndc5_mrna
+Txndc5	.	exon	1	168	.	+	.	Parent=mrna_Txndc5;Name=Txndc5_exon
+Txndc5	.	CDS	1	168	.	+	0	Parent=mrna_Txndc5;Name=Txndc5_cds
+##sequence-region Ube2c 1 152
+Ube2c	.	gene	1	152	.	+	.	ID=gene_Ube2c;Name=Ube2c_gene
+Ube2c	.	mRNA	1	152	.	+	.	ID=mrna_Ube2c;Parent=gene_Ube2c;Name=Ube2c_mrna
+Ube2c	.	exon	1	152	.	+	.	Parent=mrna_Ube2c;Name=Ube2c_exon
+Ube2c	.	CDS	1	152	.	+	0	Parent=mrna_Ube2c;Name=Ube2c_cds
+##sequence-region VEGFa 1 159
+VEGFa	.	gene	1	159	.	+	.	ID=gene_VEGFa;Name=VEGFa_gene
+VEGFa	.	mRNA	1	159	.	+	.	ID=mrna_VEGFa;Parent=gene_VEGFa;Name=VEGFa_mrna
+VEGFa	.	exon	1	159	.	+	.	Parent=mrna_VEGFa;Name=VEGFa_exon
+VEGFa	.	CDS	1	159	.	+	0	Parent=mrna_VEGFa;Name=VEGFa_cds
+##sequence-region Vim 1 167
+Vim	.	gene	1	167	.	+	.	ID=gene_Vim;Name=Vim_gene
+Vim	.	mRNA	1	167	.	+	.	ID=mrna_Vim;Parent=gene_Vim;Name=Vim_mrna
+Vim	.	exon	1	167	.	+	.	Parent=mrna_Vim;Name=Vim_exon
+Vim	.	CDS	1	167	.	+	0	Parent=mrna_Vim;Name=Vim_cds
+##sequence-region Wnt3 1 155
+Wnt3	.	gene	1	155	.	+	.	ID=gene_Wnt3;Name=Wnt3_gene
+Wnt3	.	mRNA	1	155	.	+	.	ID=mrna_Wnt3;Parent=gene_Wnt3;Name=Wnt3_mrna
+Wnt3	.	exon	1	155	.	+	.	Parent=mrna_Wnt3;Name=Wnt3_exon
+Wnt3	.	CDS	1	155	.	+	0	Parent=mrna_Wnt3;Name=Wnt3_cds
+##sequence-region XIAP 1 161
+XIAP	.	gene	1	161	.	+	.	ID=gene_XIAP;Name=XIAP_gene
+XIAP	.	mRNA	1	161	.	+	.	ID=mrna_XIAP;Parent=gene_XIAP;Name=XIAP_mrna
+XIAP	.	exon	1	161	.	+	.	Parent=mrna_XIAP;Name=XIAP_exon
+XIAP	.	CDS	1	161	.	+	0	Parent=mrna_XIAP;Name=XIAP_cds
+##sequence-region YAP1 1 152
+YAP1	.	gene	1	152	.	+	.	ID=gene_YAP1;Name=YAP1_gene
+YAP1	.	mRNA	1	152	.	+	.	ID=mrna_YAP1;Parent=gene_YAP1;Name=YAP1_mrna
+YAP1	.	exon	1	152	.	+	.	Parent=mrna_YAP1;Name=YAP1_exon
+YAP1	.	CDS	1	152	.	+	0	Parent=mrna_YAP1;Name=YAP1_cds
+##FASTA
+>Akt1
+GGCACCTTTATTGGCTACAAGGAACGGCCTCAGGATGTGGATCAGCGAGAGTCCCCACTCAACAACTTCTCAGTGGCACAATGCCAGCTGATGAAGACAGAGCGGCCAAGGCCCAACACCTTTATCATCCGCTGCCTGCAGTGGACCACAGTCATTG
+>Anpep
+TGTCCAGTTTCCTGACAGAGGACCTGTTTAAGAAGGGCCTTTCATCTTATCTCCACACCTACCAGTACTCGAACACCGTTTATCTGGACCTGTGGGAACACCTGCAAAAGGCCGTGAACCAACAGACAGCTGTCCAACCCCCGGCCACGGTGCGCACTATCATG
+>Aurka
+CTGCAAACGGATAGGGAAGGCTGTGTGGCGTCGGGGTGACATGGACAGATGTAAAGAAAACTGTGTCTCCAGGCCTGTTAAGACCACTGTTCCCTTCGGTCCGAAACGCGTCTTGGTGACTGAGCAGATTCCGTCTCAGAACCTAGGATCTGCTAGCAGTGG
+>Cdca7
+GAAGTTGATTTCCATGGAGACATCGTCCTCCTCCGATGACAGTTGTGACAGCTTTGCTTCTGATAATTTTGCAAACACAAGACTGCAGTTGAACAGGGAAGGCTGCAGGACCCGAAGTCAGTGCCGGCACTCCGGGCCTCTCAGGGTAGCAATGAAG
+>EphB3
+CCTAAGTGAGGCTTCCATTATGGGTCAGTTTGACCATCCCAATATAATCCGTCTAGAGGGTGTGGTCACCAAAAGTCGTCCAGTCATGATCCTCACTGAGTTCATGGAGAACTGTGCCCTGGACTCCTTTCTACGGCTCAATGACGGACAGTTCACG
+>Fabp1
+AGAGCCAGGAGAACTTTGAGCCATTCATGAAGGCAATAGGTCTGCCCGAGGACCTCATCCAGAAAGGGAAGGACATCAAGGGGGTGTCAGAAATCGTGCATGAAGGGAAGAAAATCAAACTCACCATCACCTATGGACCCAAAGTGGTCCGCAATGAG
+>Fth1
+TGGAGTTGTATGCCTCCTACGTCTATCTGTCTATGTCTTGTTATTTTGACCGAGATGATGTGGCTCTGAAGAACTTTGCCAAATACTTTCTCCACCAATCTCATGAGGAGAGGGAGCATGCCGAGAAACTGATGAAGCTGCAGAACCAGCGAGGTGGCCGAATCTTCCT
+>Hif1a
+ACAGTCGGACAGCCTCACCAGACAGAGCAGGAAAGAGAGTCATAGAACAGACAGACAAAGCTCATCCAAGGAGCCTTAACCTGTCTGCCACTTTGAATCAAAGAAATACTGTTCCTGAGGAAGAATTAAACCCAAAGACAATAGCTTCGCAGA
+>Id1
+GAACGGCGAGATCAGTGCCTTGGCGGCCGAGGCGGCATGTGTTCCAGCCGACGATCGCATCTTGTGTCGCTGAGGCGGCGCACTGAGGGACCAGATGGACTCCAGCCCTTCAGGAGGCAAGAGGAAAAAAGTGCTCTCGGTTCCCCAG
+>Klf4
+GGGAAGGGAGAAGACACTGCGTCCAGCAGGTGCCCCGACTAACCGTTGGCGTGAGGAACTCTCTCACATGAAGCGACTTCCCCCACTTCCCGGCCGCCCCTACGACCTGGCGGCGACGGTGGCCACAGACCTGGAGAGTGGCGGAGCTGGTGCAGCTTGCAGCAGTAAC
+>Map2k1
+TTTGGATGCCATGTGGAAGGAGACGCAGCCGAAACACCACCCAGGCCAAGGACCCCTGGGAGGCCTCTCAGCTCATATGGAATGGACAGCCGACCTCCCATGGCAATTTTTGAGTTGTTGGATTACATTGTCAATGAGCCTCCTCCAAAACTGCCCAGTG
+>Map3k1
+TCCTTCCGCTTACAAAGATTTGGCCGAGCCATGGATTCAGGTGTTTGGAATGGAACTCGTTGGCTGCTTATTCTCTAGAAACTGGAACGTAAGGGAAATGGCCCTTAGGCGTCTTTCCCACGACGTTAGTGGGGCCCTGTTGTTGGCAAACGGG
+>Mbnl2
+GGAGGTCTGCAGACAGTACCAGAGAGGAACGTGCTCACGCTCCGACGAAGAATGCAAGTTTGCTCACCCCCCCAAAAGTTGCCAGGTTGAAAATGGAAGAGTAATTGCCTGCTTTGATTCCCTCAAGGGCCGCTGTTCAAGAGAGAACTGCAA
+>Mdh2
+ACCCTTGACATCGTCAGAGCGAACACGTTTGTGGCAGAGCTAAAGGGTTTGGATCCAGCTCGAGTCAACGTGCCTGTCATTGGCGGCCACGCCGGGAAGACGATCATCCCCCTGATCTCTCAGTGTACCCCGAAGGTTGACTTTCCCCAAGACC
+>Pabpc1
+TGCCAGACCTCATCCATTCCAGAATATGCCCGGTGCTATCCGCCCAGCTGCTCCTAGACCACCATTTAGTACGATGAGACCAGCTTCCTCACAGGTTCCACGAGTCATGTCAACACAGCGTGTTGCTAACACATCAACACAGACAATGG
+>Pdk1
+CACTCTCCATGAAGCAGTTCCTGGACTTCGGGTCAGTGAATGCTTGTGAAAAGACCTCGTTTATGTTTCTGCGACAAGAGTTGCCTGTTAGATTGGCAAATATAATGAAAGAAATCAGCCTCCTCCCCGACAATCTTCTCAGGACCCCATCCGTACA
+>Plac8
+CGTGACTCAACCTGGATTCGTTCGTGCTCCCCAAAATTCCAACTGGCAGACCAGCCTGTGTGATTGCTTCAGTGACTGCGGAGTCTGCCTCTGTGGGACCTTTTGTTTCACTTGTCTTGGATGTCAAGTGGCAGCTGACATGAATGAGTGTTGTCTG
+>Ppm1g
+TGCCTTCTTGGCTATTGATGCCAAGCTGACCACAGAGGAAGTCATTAAGGAACTGGCCCAGATTGCAGGGAGACCCACTGAAGATGAGGATGATAAAGACAAAGTAGCAGATGAGGATGATGTGGACAATGAGGAGGCTGCATTGTTGCATGAAGAGG
+>PTEN
+ACTGCTGTTTCACAAGATGATGTTTGAAACTATTCCAATGTTCAGTGGCGGAACTTGCAATCCTCAGTTTGTGGTCTGCCAGCTAAAGGTGAAGATATATTCCTCCAATTCAGGACCCACGCGGCGGGAGGACAAGTTCATGTACTTTGAGTTCC
+>Ptma
+ATCACCACCAAGGACTTGAAGGAGAAGAAGGAAGTTGTGGAGGAGGCAGAGAATGGAAGAGATGCACCTGCCAATGGGAACGCTCAAAATGAGGAAAATGGGGAGCAGGAGGCTGACAATGAGGTAGATGAAGAAGAGGAAGAAGGT
+>Ptprn2
+CACTTCCTGAGTTGGTATGACCAGGGAGTCCCTTCCTCCACGAGGTCACTCCTGGATTTCCGCAGAAAAGTGAACAAATGCTACCGAGGCCGCTCTTGTCCGATCATTGTCCATTGCAGTGACGGCGCCGGCAGGAGTGGAACCTACGTCCTGATTGACAT
+>Rgs2
+CTGCTGGCCAGTAAATATGGGCTGGCTGCATTCAGGGCGTTTTTAAAGTCCGAGTTCTGTGAAGAAAACATTGAATTCTGGTTGGCTTGTGAAGACTTCAAAAAAACCAAATCACCCCAAAAACTGTCCTCAAAAGCAAGGAAAATCTATACCGACTTCATAGAGAAGGAAGC
+>Sox4
+CCTTCTTGCAGGAGGGAGGGAGAAACATACATTTATTCATGCCGGTCTGTTGCATGCAAGCTTCTTGGCTTCCTACCTTGCAACAAAATAATTGCACCAACTCCTCAGCGCCGATTCCGCCCACAGAGAGTCCCGGAGCCAGAGTCGCTTTGGCTTTG
+>Tk1
+AGATCGCCCAGTACAAGTGCCTGGTCATCAAGTATGCCAAAGACACGCGCTATAGCAACAGCTTCTCCACACATGATCGGAACACCATGGACGCATTGCCAGCCTGCATGCTCCGCGATGTGACCCAGGAGTCCTTGGGTGTGGCCGTCATTGGCATCGATGAGG
+>Zg16
+ATCACCGCCTTCCGTATCCGGGTCAACAGATACTACATAGTAGGTCTCCAGGTGCGCTATGGCACAGTGTGGAGTGACTATGTAGGTGGCACACAGGGAGACCTGGAGGAGATCTTTCTGCACCCCGGGGAATCTGTGATCCAGGTGTCTGGCAAGTAC
+>1810065E05Rik
+CTGGTCTTCAGTATCGAAGAGCCTCCTTGCTGTCTGTGTTGTCACGGAGTTTGCTGTGATCTTTGTGGAGAGTCTCTCTTGTGAAAACTCTATGTGCACAAATGGACTCTGTCAGCCCATGGGTACATGCAATACCTCTAAAAGCTGCTTCAGCC
+>Acvr1
+GGTCGATATTTGGGCCTTTGGCCTTGTTCTGTGGGAAGTGGCCAGGCGAATGGTGAGCAATGGTATAGTGGAAGATTACAAGCCACCATTCTATGATGTGGTTCCCAATGACCCAAGTTTTGAAGATATGAGGAAAGTTGTCTGTGTGGATCA
+>Adh1
+GACGATCACGTGGTTAGTGGAACCCTGGTCACACCTCTTCCTGCAGTTTTAGGCCATGAGGGAGCAGGCATTGTTGAGAGCGTTGGAGAAGGGGTGACTTGTGTGAAACCAGGTGATAAAGTCATTCCACTCTTTTCCCCTCAGTGTGGAGAATGCAG
+>Agr2
+AAAGAAATCCAGAAATTGGCAGAGCAGTTTGTTCTCCTCAACCTGGTCTATGAAACAACTGACAAGCACCTTTCTCCTGATGGCCAGTATGTCCCCAGAATTGTGTTTGTAGACCCATCCCTGACGGTGAGGGCAGACATCACTGGACGATACTCAAAC
+>Aldh1
+ACAAGCTGGCTGACTTAATGGAGAGAGATCGTCTGCTGCTGGCTACAATGGAGGCACTCAATGGTGGGAAAGTCTTTGCCAATGCATACTTGTCGGATTTAGGAGGCTGCATAAAAGCATTAAAGTACTGTGCAGGCTGGGCTGAC
+>Aldh2
+ACAAGGCAGTGAAGGCTGCTCGTGCAGCCTTCCAGCTGGGCTCGCCCTGGCGCCGCATGGATGCATCTGACCGGGGCCGGCTGTTGTACCGATTGGCGGATCTCATTGAACGGGACCGGACCTACCTAGCGGCCTTGGAGACCCTGGACAACGGCAAGCCTTATGT
+>Aldob
+GCATCCTGGCTGCAGATGAATCTGTGGGTACCATGGGAAACCGCCTGCAAAGGATAAAGGTGGAGAACACCGAAGAGAACCGAAGGCAGTTCCGAGAACTCCTCTTTAGTGTGGACAATTCCATTAGCCAGAGCATCGGCGGAGTGATCCTTTTCCACGAGACCCTC
+>Alox5ap
+CTTTGTCGGCTATCTGGGAGAGAGAACTCAGAGCACCCCTGGCTACATCTTCGGCAAGCGGATCATCCTGTTCCTGTTCCTCATGTCCTTCGCCGGGATACTCAACCATTACCTCATCTTCTTCTTCGGAAGCGACTTTGAGAACTACATCAGAACGGTAAGC
+>Alpi
+GTTGTTTTTGGGTCTCAGGATCCATCTGTCCTTTGGTATCATCCCAGCTGAAGAGGAGAACCCGGCCTTCTGGAACAAGAAGGCAGCTGAAGCCCTGGATGCTGCCAAGAAGCTGCAGCCCATTCAGACATCAGCTAAGAACCTCATCATCTTCCTGGGAG
+>Ang4
+CCAGTTGGAGGAAAGCTGGCCAGCTTTGGAATCACTGTTGGAAGAGATGACAATGAGCCCATGTCCTTTGTTGTTGGTCTTCGTGCTGGGTCTGGTTGTGATTCCTCCAACTCTGGCTCAGAATGAAAGGTACGAAAAATTCCTACGTCAGCACTATGATGCCAA
+>Apoa4
+TCACTTCGGACCAGGTGGCCAATGTGGTGTGGGATTACTTTACCCAGCTAAGCAACAATGCCAAGGAGGCTGTAGAACAGTTTCAGAAGACGGATGTCACTCAGCAGCTCAGTACCCTCTTCCAGGACAAACTTGGGGATGCTAGTACGTATGCTGAT
+>Apoc3
+GCTCTCCTGGCATCTGCCCGAGCTGAAGAGGTAGAGGGATCCTTGCTGCTGGGCTCTGTACAGGGCTACATGGAACAAGCCTCCAAGACGGTCCAGGATGCGCTAAGTAGCGTGCAGGAGTCCGATATAGCTGTGGTGGCCAGGGGCTGGATGGACAATCACTTCA
+>Aqp4
+GTAGCCATGGTGTGCACACGAAAGATCAGCATCGCTAAGTCCGTCTTCTACATCATTGCACAGTGCCTGGGGGCCATCATTGGAGCCGGCATCCTCTACCTGGTCACACCTCCCAGTGTGGTTGGAGGATTGGGAGTCACCACGGTTCATGGAAACCTCACC
+>Areg
+GCTCAGTGCTGTTGCTGCTGGTCTTAGGCTCAGGCCATTATGCAGCTGCTTTGGAGCTCAATGACCCCAGCTCAGGGAAAGGCGAATCGCTTTCTGGGGACCACAGTGCCGGTGGACTTGAGCTTTCTGTGGGAAGAGAGGTTTCCACCATAAGCGAAATGC
+>Ascl2
+GATCTGCACTCGAGGATTTTTCGAGGACGCAATAAGCTAAGCATCTGCCCGGAGCATGGAAGCACACCTTGACTGGTACGGGGTCCCAGGACTGCAGGAGGCCAGCGACGCGTGCCCTAGGGAGTCCTGCAGCAGTGCCCTGCCTGAGGCCCGTGAAGGTGCAAACGTCC
+>Atoh1
+AGGTAAAAGAGTTGGGGGACCACCATCGCCATCCCCAGCCGCACCACGTCCCGCCGCTGACGCCACAGCCACCTGCTACCCTGCAGGCGAGAGACCTTCCCGTCTACCCGGCAGAACTGTCCCTCCTGGATAGCACCGACCCACGCGCCTGGCTGACTCCCACTTTGCAG
+>Axin2
+CGGCTATGTCTTTGCACCAGCCACCAGCGCCAACGACAGCGAGTTATCCAGCGACGCACTGACCGACGATTCCATGTCCATGACGGACAGTAGCGTAGATGGAGTCCCTCCTTACCGCATGGGGAGTAAGAAACAGCTCCAGAGAGAGATGCATCGCAGT
+>AY761184
+CCTTTGGAGGCACAGAAGGCTCTGCTCTTCAATATGTAGCCCAAAGAAGGTTTCCGTGGTGCCGGAAGTGCCCAGTGTGCCAGAAGTGCCAAGTGTGCCAGAAGTGCCCTGTGTGCCCGACATGCCCCCAGTGCCCGAAGCTGCCATTGTGCAAAGAAAGGCA
+>Bambi
+ATGGCTGTGCTGCTCACCAAAGGAGAGATCAGATGCTACTGTGATGCTGCTCACTGTGTGGCAACAGGTTACATGTGTAAGTCTGAGCTTAGTGCCTGCTTCTCCAGACTTCTCGATCCTCAGAACACCAATTCTCCACTCACCCACGGCTGCCTGGACTCACTTG
+>BAX
+GCTGGACACTGGACTTCCTCCGTGAGCGGCTGCTTGTCTGGATCCAAGACCAGGGTGGCTGGGAAGGCCTCCTCTCCTACTTCGGGACCCCCACATGGCAGACAGTGACCATCTTTGTGGCTGGAGTCCTCACCGCCTCGCTCACCATCTGGAAG
+>Bcl2
+TACCTGAACCGGCATCTGCACACCTGGATCCAGGATAACGGAGGCTGGGATGCCTTTGTGGAACTATATGGCCCCAGCATGCGACCTCTGTTTGATTTCTCCTGGCTGTCTCTGAAGACCCTGCTCAGCCTGGCCCTGGTCGGGGCCTGCATCACTCTGGGTGC
+>Bcl2l1
+GTCGGATTGCAAGTTGGATGGCCACCTATCTGAATGACCACCTAGAGCCTTGGATCCAGGAGAACGGCGGCTGGGACACTTTTGTGGATCTCTACGGGAACAATGCAGCAGCCGAGAGCCGGAAAGGCCAGGAGCGCTTCAACCGCTGGTTCCTGACGGGCATGACTGT
+>Bhlhe40
+CCGGATTAACGAGTGCATTGCCCAGCTGAAGGATCTCCTACCCGAACATCTCAAACTTACTACTTTGGGTCACTTGGAAAAAGCAGTGGTTCTGGAGCTTACGTTGAAGCACGTGAAAGCATTGACAAATCTAATTGATCAGCAGCAGCAGAAAATCATTGC
+>Birc2
+GGACCGTCAATGATATTGTCTCAGTACTTTTGAATGCTGAAGATGAGAGAAGAGAAGAGGAGAAGGAAAGACAGACTGAAGAGATGGCATCAGGTGACTTATCACTGATTCGGAAGAATAGAATGGCCCTCTTTCAACAGTTGACACATGT
+>Birc3
+CAGCAACCTCATTCAGAAACTCCCTTCGGGAAATTGACCCTGCGTTATACAGAGATATATTTGTGCAACAGGACATTAGGAGTCTTCCCACAGATGACATTGCAGCTCTACCAATGGAAGAACAGTTGCGGAAACTCCAGGAGGAAAGAATG
+>Birc5
+CGAGAACGAGCCTGATTTGGCCCAGTGTTTTTTCTGCTTTAAGGAATTGGAAGGCTGGGAACCCGATGACAACCCGATAGAGGAGCATAGAAAGCACTCCCCTGGCTGCGCCTTCCTCACTGTCAAGAAGCAGATGGAAGAACTAACCGTC
+>Bmi1
+AAGTTGCAGATGAGGAGAAGAGGATTATAACTGATGATGAGATAATAAGCTTGTCTATTGAGTTCTTTGATCAGAGCAGATTGGATCGGAAAGTAAATAAAGAGAAGCCTAAGGAAGAGGTGAATGATAAAAGGTACTTACGATGCCCAGC
+>Bmpr1a
+GGAAGTTGCTGTATTGCTGACCTGGGCCTAGCTGTTAAATTCAACAGTGATACAAATGAAGTTGACATACCCTTGAATACCAGGGTGGGCACCAAGCGGTACATGGCTCCAGAAGTGCTGGATGAAAGCCTGAATAAAAACCATTTCCAGCCC
+>BTRC
+GCATGGGCACATCAACTCCTACCTAAAACCTATGCTGCAGAGGGATTTCATAACTGCACTGCCAGCACGGGGTCTGGACCACATCGCTGAGAACATTCTGTCATACTTGGACGCCAAGTCACTGTGTGCTGCTGAGCTCGTGTGCAAGGAATGGTACC
+>Cbfa2t3
+CGCACTATCGCCTGGAGGACATGGCCATGGCCCACCATTTCCGGGACTCCTACCGCCATCCTGATCCCCGAGAGCTACGGGAACGCCACCGGCCCCTGGCCATACCTGGGTCTCGACAAGAAGAAGTGATTGATCACAGGCTCACAGAACGCGAGTG
+>Cck
+GCACTGCTAGCGCGATACATCCAGCAGGTCCGCAAAGCTCCTTCTGGCCGCATGTCCGTTCTTAAGAACCTGCAGAGCCTGGACCCCAGCCATAGAATAAGTGACCGGGACTACATGGGCTGGATGGATTTTGGCCGGCGCAGTGCCGAGGACTACGAAT
+>Ccl6
+CATTCTTTATCCTTGTGGCTGTCCTTGGGTCCCAGGCTGGCCTCATACAAGAAATGGAAAAAGAAGATCGTCGCTATAACCCTCCAATAATTCATCAAGGCTTTCAAGACACTTCTTCAGACTGCTGCTTCTCTTATGCCACACAGATCCC
+>Ccnb1
+GACTCCCTGCTTCCTGTTATGCAGCACCTGGCTAAGAATGTAGTCATGGTGAACTGTGGCCTCACAAAGCACATGACTGTCAAGAACAAGTATGCAGCATCTAAGCATGCTAAGATCAGCACGCTGGCACAGCTGAACTGTACACTAGTTCA
+>Ccnd1
+GACGGAGGAGACCTGTGCGCCCTCCGTATCTTACTTCAAGTGCGTGCAGAAGGAGATTGTGCCATCCATGCGGAAAATCGTGGCCACCTGGATGCTGGAGGTCTGTGAGGAGCAGAAGTGCGAAGAGGAGGTCTTCCCGCTGGCCATGAACTACCTG
+>Ccne1
+GGCACAGGACTTCTTTGATCGTTACATGGCATCACAACATAATATCATAAAAACACTTTTACAGCTTATTGGGATTTCAGCCTTATTTATTGCTTCAAAACTTGAGGAAATCTACCCTCCAAAGTTGCACCAGTTTGCTTATGTTACAGATGGCGCTTG
+>CD44
+CAGTATCTCCCGGACTGAGGCAGCTGACCTCTGCCAGGCTTTCAACAGTACCTTACCCACCATGGACCAAATGAAGTTGGCCCTGAGCAAGGGTTTTGAAACATGCAGGTATGGGTTCATAGAAGGAAATGTGGTAATTCCGAGGATTCATCCCAACGCTA
+>CDC25A
+CCACTCTGATTCTCTAGACCACGACACCTTTCACCTCATCGACCAGGATGAAAATAAAGAAAATGAAGCATTTGAATTTAAAAAGCCAATACGACCTGCATCTCGTCACATCTACGAGGAGAGTAAAGATCCCTTTACACACAGGCAGAATTCA
+>Cdc25c
+GCACAGTCAGAAGGAACTGCATGAGTTCTTTCTGAGGAAGCCTGTTGTTCCTCTGGATATCCAGAAAAGAGTCATCATTGTGTTCCTCTGTGAATTCTCCTCCGAGAGAGGCCCTCGAATGTGCCGTTCTCTGAGAGAAAAAGACAGGGCTCTGAACCAGTATCCGGCATTA
+>Cdh1
+GTCAACGATCCTGACCAGCAGTTCGTTGTTGTCACAGACCCCACGACCAATGATGGCATTTTGAAAACAGCCAAGGGCTTGGATTTTGAGGCCAAGCAGCAATACATCCTTCATGTGAGAGTGGAGAACGAGGAACCCTTTGAGGGGTCTCTTGTC
+>Cdk6
+GAGGCACCTGGAGACCTTCGAGCACCCCAACGTGGTCAGGTTGTTTGATGTGTGCACAGTGTCACGGACGGACAGAGAAACCAAGCTTACACTAGTGTTTGAGCATGTTGATCAAGACTTGACCACTTACTTGGATAAAGTTCCAGAGCCCG
+>Cdkn1a
+ACCACGTGGCCTTGTCGCTGTCTTGCACTCTGGTGTCTGAGCGGCCTGAAGATTCCCCGGGTGGGCCCGGAACATCTCAGGGCCGAAAACGGAGGCAGACCAGCCTGACAGATTTCTATCACTCCAAGCGCAGATTGGTCTTCTGCAAGAGAAAAC
+>Cdkn1b
+GCCTGACTCGTCAGACAATCCGGCTGGGTTAGCGGAGCAGTGTCCAGGGATGAGGAAGCGACCTGCTGCAGAAGATTCTTCTTCGCAAAACAAAAGGGCCAACAGAACAGAAGAAAATGTTTCAGACGGTTCCCCGAACGCTGGCACTGTGGA
+>Cdkn3
+GTCGCGAGTGAATTGTTCCCAGTTTCTCGGTTTATGTGCTCTTCCAGGTTGTAAGTTTAAAGATGTTAGAAGAAATATTCAGAAAGATACAGAAGAACTAAAGAGCTACGGGATCCAAGACGTGTTTGTTTTCTGCACCAGAGGGGAGCTGTCAA
+>Cdx2
+TGCGAGTGGATGCGGAAGCCCGCGCAGCAGTCCCTAGGAAGCCAAGTGAAAACCAGGACAAAAGACAAATACCGGGTGGTGTACACAGACCATCAGCGGCTGGAGCTGGAGAAGGAGTTTCACTTTAGTCGATACATCACCATCAGGAGGAAAAGTGAGCTGGCTGC
+>Ces2e
+ATGTCCCAGGGACTCTTCCATGGTGCCATCATGGAGAGTGGAGTAGCTGTGCTCCCTGATCTTATCTCCAGCTCCTCTGAGATGGTTCACAGAATAGTGGCCAATCTATCTGGCTGTGCAGCTGTGAACTCAGAGACCCTGATGTGCTGCCTAAGAGG
+>Chga
+CCAGAATCTGCTGAAGGAACTTCAAGACCTGGCTCTCCAAGGTGCCAAGGAGCGGGCCCAGCAGCCGCTGAAGCAGCAGCAGCCGCCGAAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGCAGGAGCAGCAACACAGCAGCTTTGAGGATGAACTCTCAGAAGTGT
+>Chgb
+AACGATCACCCCTGAGTGCCGGCAAGTCCTGAAGAAGAGTGGAAAAGAGGTCAAAGGTGAAGAGAAAGGTGAAAACCAGAACTCGAAGTTTGAAGTACGGTTGCTAAGAGACCCAGCCGATGCCTCAGGAACCCGCTGGGCCTCCAGTAGGGAGGATGCAGG
+>Clca4
+GCAATGGATATGAGGGTGTGGTCATTGCCATTAACCCCAGTGTGCCGGAGGACGAAAGGCTCATCCCAAGCATAAAGGAAATGGTAACTCAAGCCTCCACTTACCTGTTTGAAGCCACAGAAAGAAGATTTTATTTCAGAAACGTGAGCATTTTAGTTCCCATAACC
+>Clps
+AGTGGCCTATGCAGCTCCCGGACCCCGGGGTCTTATTATCAACCTGGAGGACGGTGAGATCTGTTTGAACAGTATGCAGTGTAAGAGCAGATGCTGCCAACATGACACCATCCTGGGCATTGCCCGTTGCACACACAAGGCCATGGAGAACAGCGAGTG
+>Cox5a
+AGGAGTTTGATGCTCGCTGGGTGACATATTTCAACAAGCCAGACATTGATGCCTGGGAATTGCGTAAAGGGATGAATACACTTGTTGGCTATGATCTGGTTCCTGAGCCCAAAATCATTGATGCTGCATTGCGAGCATGTAGACGGTTAAATGAT
+>Cpe
+AGCTCCTGGTCATCGAGCTGTCTGACAACCCCGGGGTCCATGAGCCGGGTGAACCTGAATTTAAATACATTGGGAACATGCATGGTAATGAGGCGGTTGGACGGGAACTGCTTATTTTCTTGGCCCAGTACCTGTGTAACGAGTACCAGAAAGGCAATGAGACAATTGTC
+>Ctnnb1
+CAGACTGCCTTCAGATCTTAGCTTATGGCAATCAAGAGAGCAAGCTCATCATTCTGGCCAGTGGTGGACCCCAAGCCTTAGTAAACATAATGAGGACCTACACTTATGAGAAGCTTCTGTGGACCACAAGCAGAGTGCTGAAGGTGCTGTC
+>Cxcl9
+GAATGCACGATGCTCCTGCATCAGCACCAGCCGAGGCACGATCCACTACAAATCCCTCAAAGACCTCAAACAGTTTGCCCCAAGCCCCAATTGCAACAAAACTGAAATCATTGCTACACTGAAGAACGGAGATCAAACCTGCCTAGATCCGGACTC
+>Dach1
+CCCCAAATGTGCTTCCTGGGCCAAAGGAGGGGGATTTGGCTGGTCATGACATGGGGCATGAGTCAAAACGGATCCACATTGAAAAAGATGAGACCCCACTTTCCACACCAACCGCAAGAGACAGCATCGACAAACTTTCTCTAACTGGGCATGGACAACCACTACC
+>Dclk1
+GGCACCCCAACATATGTGGCTCCAGAAATCATTGCAGAGACTGGATATGGCCTCAAGGTGGACATCTGGGCAGCTGGCGTGATCACTTATATCCTGCTGTGTGGCTTCCCTCCGTTCCGTGGAAGTGGGGATGACCAGGAGGTGCTTTTTGA
+>Defa17
+GACCAGGCTGTGTCTGTCTCTTTTGGAGACCCAGAAGGCTCTTCTCTTCAAGAGGAATCGTTGAGAGATCTGGTATGCTATTGTAGAAAAAGAGGCTGCAAAAGAAGAGAACGCATGAATGGGACCTGCAGAAAGGGTCATTTAATGTACACACTCTGC
+>Defa24
+GTCCAGGCTGATCCTATCCAAAATACAGATGAAGAGACTAAAACTGAGGAGCAGCCAGGGGAAGAGGACCAGGCTGTGTCTGTCTCTTTTGGAGACCCAGAAGGCGCTTCTCTTCAAGAGGAATCATTGAGAGATCTGGTATGCTATTGTAGAGCAAGAGGCTG
+>Defa6
+GGTCCAGGCTGATCCTATCCAAAATACAGATGAAGAGACTAAAACTGAGGAGCAGCCAGGGGAAGAGGACCAGGCTGTGTCTGTCTCTTTTGGAGACCCAGAAGGCGCTTCTCTTCAAGAGGAATCATTGAGAGATCTGGTATGCTATTGTAGAGCAAGAGGCTG
+>Dll1
+CAGGGATACACACAGCAAACGTGACACCAAGTGCCAGTCACAGAGCTCTGCAGGAGAAGAGAAGATCGCCCCAACACTTAGGGGTGGGGAGATTCCTGACAGAAAAAGGCCAGAGTCTGTCTACTCTACTTCAAAGGACACCAAGTACCAGTCGG
+>Dmbt1
+GGCTCTTTCACCTCAACATCCAACTTCATGTCAATTCGCTTCATCACTGATCACAGTATTACTGCGAGAGGGTTCCAGGCTCACTACTACTCCGACTTTGACAATAACACCACCAATCTCCTTTGTCAGTCAAATCACATGCAAGCCAGCGTGAGCAGGAGCTACCT
+>EGFR
+CTTTCTGAGCCTGCAGAGGATGTACAACAACTGTGAAGTGGTCCTTGGGAACTTGGAAATTACCTATGTGCAAAGGAATTACGACCTTTCCTTCTTAAAGACCATCCAGGAGGTGGCCGGCTATGTCCTCATTGCCCTCAACACCGTGGAGAGAA
+>EPCAM
+ACAAGACGACGTGGACATAGCTGATGTGGCTTACTATTTTGAAAAAGATGTGAAGGGGGAGTCCCTGTTCCATTCTTCTAAGAGCATGGACCTGAGAGTGAACGGAGAGCCGCTCGATCTGGACCCCGGGCAGACTCTGATTTACTACGTTGATGAAAAGGCACCCG
+>EphB2
+CCACTGTCCCATCAACAGCCGCACCACCTCCGAGGGTGCCACCAACTGTGTATGCCGCAACGGCTACTACAGGGCCGACCTGGACCCCTTAGACATGCCTTGCACAACCATCCCCTCTGCGCCCCAGGCTGTGATCTCCAGCGTCAACGAGACGTCCCTCA
+>Ern2
+GGAAGTCTCCATGCACTGAACAAGCAGACAGGGGACTTGAAGTGGACAGTGAAGGATGACCCCATCATCCAGGGCCCAATGTATGTCACAGAAATGGCCTTTCTCTCTGACCCAGCTGACGGCAGCCTGTATGTCTTGGGAACCCAGAAACA
+>Etv4
+CAGGTACCGGACAGTGATGAGCAGTTTGTTCCTGATTTCCATTCAGAAAACTTAGCTTTCCATAGCCCCACCACCAGGATCAAGAAGGAACCCCAGAGTCCCCGCACAGACCCCGCCCTGTCCTGCAGCAGGAAGCCACCACTCCCCTACCACCATGGAGAGCAGTGCCTT
+>Fabp2
+GGCACGTGGAAAGTAGACCGGAACGAGAACTATGAAAAGTTCATGGAGAAAATGGGCATTAATGTGATGAAGAGGAAGCTTGGAGCTCATGACAATCTGAAACTGACAATCACACAGGATGGAAATAAATTCACAGTCAAAGAATCAAGCAACTTC
+>Fabp5
+GGCCAGTCTTAAGGATCTCGAAGGGAAGTGGCGCCTGATGGAAAGCCACGGCTTTGAGGAGTACATGAAAGAGCTAGGAGTAGGACTGGCTCTTAGGAAGATGGCTGCCATGGCCAAGCCAGACTGTATCATTACGTGTGATGGCAACAACATCACGGTCAA
+>FASN
+GCTGCTGTTGGAAGTCAGCTATGAAGCAATTGTGGATGGAGGTATCAACCCAGCCTCACTCCGAGGAACGAACACTGGCGTCTGGGTGGGTGTGAGTGGTTCAGAGGCATCCGAGGCCCTTAGCAGAGATCCCGAGACGCTTCTGGGCTACAGCATG
+>Fcgbp
+GCAAGGTCCACATCTTCTTCCAGGATGGCCTGGTGACTGTGATCCCAAGCAAGGGTGCATGGGTGAATGGTCTCCGCGTGGATCTCCCAGCTACTGTGTTAACATCTGTGTCTGTGAGGAGGATGCCCGACGGCTCCATGCTTGTCCACCAGAAGGC
+>Fgfbp1
+CGCATGGCAAGTTTGTCACCAAAGACCAAGCCACATGCAGATGGGCTGTGACTGAGGAGGAGCAGGGCATCAGCCTGAAGGTCCAGTGCACACAAGCCGATCAGGAGTTTTCTTGTGTTTTTGCTGGTGACCCAACTGACTGCCTTAAACACG
+>Gart
+CAATGCAGTTGACCACGTCCTGGAAGAGTTCTCTGTAGACATCGTCTGTCTTGCAGGGTTCATGAGGATCCTCTCTGGGCCCTTCGTCAGAAAATGGGACGGGAAAATGCTCAACATCCACCCATCCTTGCTCCCTTCCTTTAAGGGTTCAAATGCCCACGAGC
+>Gdf15
+AACTCAACGCCGACGAGCTACGGGGTCGCTTCCAGGACCTGCTGAGCCGGCTGCATGCCAACCAGAGCCGAGAGGACTCGAACTCAGAACCAAGTCCTGACCCAGCTGTCCGGATACTCAGTCCAGAGGTGAGATTGGGGTCCCACGGCCAGCTGCTACTCCGCGTCAA
+>gDNA_Cpe
+GGTTTGTTAACCATTCAATAGCATTGGAAAAGTCTAGTTCTCAAAAATCCTCAAGGAATTTCTGAGACCACTCCATGGATCACTCAAATCAAGCCGACCTAAGGATCCTGTTAAACAATGGGTTTCCTGTCGTGTCCTGAACTTAACAGTTTCTGCAGGGAATGACT
+>gDNA_Dclk1
+GCCCAAGGTCATTTGTACAGCGAAGATCATAGGCAAGGCATTTCCATATGACCCCCACCCCCTCTGAAACACAGCAATGGTAAACCAGATAGTCTTTAAACGGAAAACATTGGCACATCTGCATCTTGCCTATTCTTAAATATTGAAGATATAGCGTGCATGGTGT
+>gDNA_Lgr5
+GCTGGACTTTCAGGTTTGTCCTATGCAAGGCGTTTGGGAGCGATTTGTAGGGTTGATGCCTAAGCAACTAGGTTAGAAAGACGACGTGCGATGTGCGCATGCCGTGCGCATCAGAGGCCCACGCTGTATGGTGGAGTCCAACTGAAAAGCTACAGTTAAGG
+>gDNA_Olfm4
+TCCTAGTCTTTGGGGTAAGTCGTTTAATATGACACATTTGCTAATAGATGCTCATGCATGAGAAGGTTGAGGCAGCCTGGGAGATATTTGAACAACTTATAAACAAACAACATTGATTGAGCAATGCTTTGTGCAGTGGAGTAAAAG
+>Ghrl
+GCTAAACTGCAGCCACGAGCTCTGGAAGGCTGGCTCCACCCAGAGGACAGAGGACAAGCAGAAGAGACAGAGGAGGAGCTGGAGATCAGGTTCAATGCTCCCTTCGATGTTGGCATCAAGCTGTCAGGAGCTCAGTATCAGCAGCATGG
+>Gip
+CCTGCTCTCTGTTGCTGGTGCTCCTGTTCCTGGCTGTTGGGCTGGGAGAAAAAGAAGAGGTTGAGTTCCGATCCCATGCTAAATTTGCTGGCCCTCGACCTCGAGGTCCAAGGTACGCAGAGGGGACTTTCATCAGTGATTACAGCATCGCCA
+>Gjb3
+GAACTGGGGGATCTCAGAGGAGAGGTGCTGGCTTTGGACTGGGGACAGCCAGCCAGAGGGAGGCTTTACTACTCAACCATGAGAAGGTTTGGCACAACCTTCTGGAGGCCAAAGAGCAAGTGTGGCTAGCAGGTCTACTGCTGCTTGAGACACACCC
+>Gsta4
+GTACCCTTGGTTGAAATCGATGGGATGATGCTGACACAGACCAGGGCCATCCTCAGCTACCTCGCTGCCAAGTACAACTTGTATGGGAAGGACCTGAAGGAGAGAGTCAGGATTGACATGTATGCAGATGGCACCCAGGACCTGATGATGATGATTGCCG
+>Gstm3
+AGTATCGTATGTTTGAGCCCAAGTGCCTGGACGCCTTCCCAAACCTGAGGGACTTCCTGGCCCGCTTCGAGGGCCTCAAGAAGATCTCTGCCTACATGAAGAGTAGCCGCTTCCTCCCAAGACCTGTGTTTACTAAGATAGCCCAGTGGGGCACTGATTAG
+>Guca2a
+TCTGTGCTGTGCCTCCTGGGTGCCTTGGCTGTCCTGGTAGAAGGGGTCACTGTGCAGGATGGAGACCTCTCCTTTCCTCTGGAGTCAGTGAAAAAACTTAAGGGTCTCCGCGAGGTACAGGAGCCCAGACTGGTGAGTCACAAGAAGTTTGCT
+>Guca2b
+TCCTGCAGAGTGCACAGGGTGTCTACATCAAGTACCATGGCTTCCAAGTCCAGCTGGAATCAGTGAAGAAGCTGAATGAGTTGGAGGAGAAGGAGATGTCCAATCCCCAGCCTCGGAGAAGTGGCCTCCTCCCTGCTGTGTGCCATAAC
+>Habp2
+TCCCTCTGGAACTGAGTGCCACATCTCTGGCTGGGGTGTTACAGAAACAGGGGAAGGGTCCCGCCAGCTCCTGGATGCTAAAGTCAAGCTAATCGCTAACCCTTTGTGCAACTCCCGACAACTCTATGACCACACCATCGATGACAGTATGATTTGTGCGG
+>Hck
+GCCAAAACTCATTGACTTCTCAGCCCAGATCTCAGAAGGCATGGCCTTCATTGAGCAGAGGAACTACATCCACCGAGACCTGAGGGCTGCCAACATCTTAGTCTCTGCATCACTGGTGTGTAAGATTGCTGACTTTGGACTGGCACGAATC
+>Hes1
+TGAAGCACCTCCGGAACCTGCAGCGGGCGCAGATGACCGCCGCGCTCAGCACAGACCCGAGCGTGTTGGGGAAATACCGCGCCGGCTTCAGCGAGTGCATGAACGAGGTGACCCGCTTCCTGTCCACGTGTGAGGGCGTTAACACCGAGGTGCG
+>Hes6
+TGGAGCTGACCGTGAGGCGCGTGCAGGGCGCGCTGCGAGGCCGGGCGCGCGAGCGGGAGCAGCTGCAGGCTGAAGCAAGCGAGCGCTTCGCTGCTGGCTACATCCAGTGCATGCATGAGGTGCACACGTTCGTGTCCACGTGCCAAGCCATCGATGCCAC
+>Hmmr
+CAGCTACTTGGTCACCAGAACCTAAAGCAAAAAATCAAACATGTTGTGAAATTGAAAGATGAAAATAGCCAACTCAAATCGGAGGTGTCAAAACTCCGATCTCAGCTTGTTAAAAGGAAACAAAATGAGCTCAGACTTCAGGGAGAATTAGATAAAGCTCTGGGC
+>Hopx
+GGTGGAGATCCTGGAGTACAACTTCAACAAGGTCAACAAGCACCCGGACCCCACCACGCTGTGCCTCATCGCAGCCGAGGCGGGTCTCACGGAGGAGCAGACGCAGAAATGGTTTAAGCAGCGCCTGGCAGAGTGGCGGCGGTCAGAAGGCTTGCCTTC
+>Hoxa5
+CCCCAGATCTACCCCTGGATGCGCAAGCTGCACATTAGTCACGACAATATAGGTGGCCCAGAAGGCAAAAGGGCCCGGACGGCCTACACTCGCTACCAGACCCTGGAGCTGGAGAAAGAATTCCACTTCAACCGCTACCTGACCCGCCGAAGAAGGATCGAAATAGCTCATG
+>Hprt
+TGTATACCTAATCATTATGCCGAGGATTTGGAAAAAGTGTTTATTCCTCATGGACTGATTATGGACAGGACTGAAAGACTTGCTCGAGATGTCATGAAGGAGATGGGAGGCCATCACATTGTGGCCCTCTGTGTGCTCAAGGGGGGCTATAAGTTCTTTGCTGACCTG
+>Id2
+GATTACATCTTGGACCTGCAGATCGCCCTGGACTCGCATCCCACTATCGTCAGCCTGCATCACCAGAGACCTGGACAGAACCAGGCGTCCAGGACGCCGCTGACCACCCTGAACACGGACATCAGCATCCTGTCCTTGCAGGCATCTGAATTCCCTTCTGAGCTTATGTC
+>Id3
+GAGCTTTTGCCACTGACCCGGTCGTCCTGGCACCTCCCGAACGCAGGTGCTGGCGCCCGTTCCGCTTGGGACCCTGGGACTCTGGGACCCTCTCTCCAGCCGGAAGCCTGAGGGCATGGATGAGCTTCGATCTTAACCCAGCCCTCTTCACTTACCCTGAACTCA
+>Ifngr2
+GGGCTCTTGAGCAATGTATCCTGTCACGAAACAACAGCAAATGCCTCCGCCAGGCTGCAGCAAGTCATCCTGATTCCGTTGGGCATCTTCGCATTGCTGCTCGGCCTGACGGGCGCCTGCTTCACCCTGTTCCTCAAATACCAAAGCCGAGTGAAGTACTG
+>Ihh
+CGCTACGAAGGCAAGATCGCGCGCAGCTCTGAGCGCTTCAAAGAGCTCACCCCCAACTACAATCCCGACATCATCTTCAAGGACGAGGAGAACACGGGTGCCGACCGCCTCATGACCCAGCGCTGCAAGGACCGTCTGAACTCACTGGCCATCTCTGTC
+>Itln1
+GAGAACCTGGACACCAACAGGTGGGGCAATTCTTTCTTTTCCTCTCTGCCCAGAAGCTGCAAGGAAATCAAGCAGGAGCACACAAAGGCACAAGATGGTCTCTATTTCCTGCGCACGAAGAATGGTGTCATCTACCAGACCTTCTGTGACATGACCACTG
+>Jag1
+TGGTGTTGGCGAGTGTCGGTCCTCCAGCCTCCAGCCAGTGAAGACCAAGTGCACATCTGACTCCTATTACCAGGATAACTGTGCAAACATCACTTTCACCTTTAACAAAGAGATGATGTCTCCAGGTCTTACCACCGAACACATTTGCAGC
+>Kras
+GGTCCTGGTAGGGAATAAGTGTGATTTGCCTTCTAGAACAGTAGACACGAAACAGGCTCAGGAGTTAGCAAGGAGTTACGGGATTCCGTTCATTGAGACCTCAGCAAAGACAAGACAGGGTGTTGACGATGCCTTCTATACATTAGTCCGA
+>Krt18
+CAGAAATCGAGGCACTCAAGGAAGAACTTCTGTTCATGAAGAAGAATCATGAAGAGGAAGTCCAAGGTCTGGAAGCCCAGATTGCCAGCTCTGGATTGACTGTGGAAGTGGATGCCCCCAAATCTCAGGACCTCAGCAAGATCATGGCGGACATC
+>Krt8
+CGCACAAAGACAGAGATCTCCGAGATGAACCGCAACATCAACCGCCTGCAGGCGGAGATTGAAGCCCTCAAAGGCCAGAGGGCATCGTTGGAGGCAGCCATCGCTGATGCTGAGCAGCGTGGGGAGATGGCCATTAAGGATGCCCAGACC
+>Lars2
+TGCCACTGCAAGACTTGCCTGTGATTTTGCCCAGCATTGCATCTTTAACGGGCAGAGGAGGCTCCCCGCTGGCCACGGCTTTGGAGTGGGTGAACTGCTCCTGCCCAAGGTGCAAGGGATCAGCAAAGAGAGAGACGGACACCATGGACACCTTTGTGGA
+>Lgals2
+TGAACATGAAACCAGGGATGTCCCTGAAGATTAAAGGCAAGATCCACAATGATGTGGACCGCTTCCTCATTAACCTGGGCCAGGGGAAAGAAACCCTCAACCTGCATTTTAACCCTCGCTTCGATGAATCCACCATTGTCTGTAACAC
+>Lgr5
+GCCCATCACACTGTCACTGTGAGCTGGATGGCAGGATGCTGCTCAGGGTGGACTGCTCGGACCTGGGGCTCTCGGAGCTGCCCTCCAACCTCAGCGTCTTCACCTCCTACCTGGACCTCAGTATGAACAACATCAGTCAGCTACCCGCCAGTCTCCTACATCGCCT
+>Lrig1
+CAGGGAACCCTTTCTGACCGGCAGGAAACTGTGGTCAGGACTGAGGGTGGTCATCAGGCCAATGGGCACATTGAAAGCAATGGTGTGTGTCTGAGAGACCCGAGCCTCTTCCCAGAGGTCGACATTCATAGCACTACATGCAGGCAGCC
+>Lyz1
+CTCCTGACTCTGGGACTCCTCCTGCTTTCTGTCACTGCCCAGGCCAAGGTCTACAATCGTTGTGAGTTGGCCAGAATTCTGAAAAGGAATGGAATGGATGGCTACCGTGGTGTCAAGCTGGCTGACTGGGTGTGTTTAGCTCAGCATGAGAGCAATTATAAC
+>Mki67
+TGCCCGACCCTACAAAATGCTGAATAACTTGATGCTAAACCGAAAAGTGGACTTCAGTGAAGATCTGTCAGGACTAACTGAAATGTTCAAGACTCCAGTGAAGGAGAAGCAGCAGCAGATGAGTGATACAGGCTCCGTACTTTCCAATTC
+>Muc2
+CTGCTCCTGTGACACTGGCGGTGACTGTGACTGTTTCTGCTCTGCCGTGGCTTCCTACGCTCAAGAGTGCACCAAGGCAGAGGCCTGTGTGTTCTGGAGGACGCCGGATCTATGCCCCATATTCTGTGACTACTACAACCCCCCGGACGAGTGTGAATGGCACT
+>Myc
+CTGCTGTCCTCCGAGTCCTCCCCACGGGCCAGCCCTGAGCCCCTAGTGCTGCATGAGGAGACACCGCCCACCACCAGCAGCGACTCTGAAGAAGAGCAAGAAGATGAGGAAGAAATTGATGTGGTGTCTGTGGAGAAGAGGCAAACCCCTGCCAAGAG
+>Mycbp
+ATTACAAAGCCGCCGACTCGAAGCGCGAGCAGTTCCGGAGGTACTTGGAGAAGTCGGGGGTGCTGGACACGCTGACGAAAGTGTTGGTAGCCTTATATGAAGAACCAGAGAAGCCCACCAGTGCTCTGGATTTTTTAAAGCATCACTTAGGAGCTGCTACCCCGGAAAAC
+>Neurod1
+GCAGAAGGCAAGGTGTCCCGAGGCTCCAGGGTTATGAGATCGTCACTATTCAGAACCTTTTAACAACAGGAAGTGGAAACATGACCAAATCATACAGCGAGAGCGGGCTGATGGGCGAGCCTCAGCCCCAAGGTCCCCCAAGCTGGACAGATGAGT
+>Neurog3
+CACTGACTGACCTGCTGCTCTCTATTCTTTTGAGTCGGGAGAACTAGGATGGCGCCTCATCCCTTGGATGCGCTCACCATCCAAGTGTCCCCAGAGACACAACAACCTTTTCCCGGAGCCTCGGACCACGAAGTGCTCAGTTCCAATTC
+>Nfkb1
+GTGGACAGTACCACCTATGATGGGACTACACCTCTGCATATAGCGGCCGGAAGAGGGTCCACCAGACTGGCAGCTCTTCTCAAAGCAGCAGGAGCAGACCCCCTGGTGGAGAACTTTGAGCCTCTCTATGACCTGGACGACTCTTGGGAGAAGGCTGGAGAAGATGA
+>Nfkb2
+CTGAGCATTGTACGGCTGCGCTTCTCAGCTTTCCTTCGAGCTAGCGATGGCTCCTTCTCCTTGCCCCTGAAGCCTGTGATCTCCCAGCCCATCCATGACAGCAAGTCTCCAGGGGCCTCGAACCTGAAGATCTCCCGAATGGACAAGACAGCGG
+>NFKBIA
+ATCTCCACTCCGTCCTGCAGGCCACCAACTACAATGGCCACACGTGTCTGCACCTAGCCTCTATCCACGGCTACCTGGCCATCGTGGAGCACTTGGTGACTTTGGGTGCTGATGTCAACGCTCAGGAGCCCTGCAATGGCCGGACAGCCCTCCACCTTG
+>Notch1
+CTTGCTCTGCCTAACGCTGCTGCCCGCGCTCGCCGCAAGAGGCTTGAGATGCTCCCAGCCAAGTGGGACCTGCCTGAATGGAGGGAGGTGCGAAGTGGCCAACGGCACTGAAGCCTGTGTCTGCAGCGGAGCCTTTGTGGGCCAACGATGCCAGGACTCCAATCCTTG
+>Notch2
+GCTGCTGTCAATAATGTGGAGGCGACTCTTCTGCTGTTGAAGAATGGGGCCAACAGAGATATGCAGGACAATAAGGAAGAGACACCTTTGTTTCTTGCTGCCCGAGAGGGAAGTTATGAAGCGGCCAAAATCCTGTTAGACCATTTTGCCAACCGGGA
+>NRAS
+GGTCCTGGTAGGGAATAAGTGTGATTTGCCTTCTAGAACAGTAGACACGAAACAGGCTCAGGAGTTAGCAAGGAGTTACGGGATTCCGTTCATTGAGACCTCAGCAAAGACAAGACAGAGAGTGGAGGATGCTTTTTATACATTGGTGAGAGAGATCCGACAGTAC
+>Nupr1
+AAGCTGCTGACCAAGTTCCAGAACTCTGAAAGGAAAAAAGCCTGGCGCTGAATAAGGCCAGACCACAGACACCACACCCAGCAATGGATACAGGACATCACACCCAGCAATGGATACAGGACATCACACCCAGCAATGGATACAGGACCTTGGAGAAATTAGGAG
+>Olfm4
+GGACTTTGAGTTGATCAAGCTGGAAGTGAAGGAGATGCAAAAACTGGTCTTACAGCTGAAGAAGAATTTTGTTGGAAGTACACATATTATTGACATGCTCGAAGTGGAGATAAGGAATATGACCCTCTTGGTAGAGAAGCTGGAGTCTCTAGACCAAAACAATGTC
+>Pdia6
+GCCAAGAAGACATGCGAGGAGCACCAGCTCTGTGTCGTGGCCGTACTGCCTCACATCCTGGACACTGGAGCTGCAGGCAGAAACTCTTACTTGGAAGTTCTTCTGAAACTGGCTGACAAGTACAAGAAGAAGATGTGGGGGTGGCTGTGGACAGAAGCTGGAG
+>Pdlim2
+GACTGTGGATGTGGCAGGACCAGCACCTTGGGGCTTCCGAATTAGCGGGGGCAGAGATTTCCACACACCCATCATTGTGACCAAGGTCACAGAGCGGGGCAAGGCTGAAGCAGCTGATCTCCGGCCTGGCGACATCATTGTGGCCATCAATGGACAGAG
+>Phlda2
+GCCTTCCGAGCCGGGAGAGCAGAGCGCTCTGGGTCCGTGAAACGCACGGGACCAGTTGAGCCGGGAACCAGCCCACGCTGCCGCATCAGACAGGAGCCCAGGAGCCCAGGGGATGCCCCGGGTGACGCCGCCGCTGCTCTTCACCGAAGA
+>Pkp1
+TGTACCACTCAGATGCCATCCGGACCTACCTGAACCTCATGGGAAAGAGCAAGAAAGATGCTACCTTGGAGGCCTGTGCTGGGGCCCTGCAAAACCTGACAGCCAGCAAGGGGCTGATGTCCAATGGTATGAGTCAGTTAATTGGAATAAAGGAAAAGGGCCTGC
+>Pla2g2a
+AATACAAGTACTCCCACCAAGGGGGCCAAATCACCTGTTCTGCAAACCAGAACTCCTGTCAGAAACGGCTGTGTCAGTGCGATAAAGCCGCCGCTGAATGTTTCGCCCGGAACAAGAAAACCTACAGTTTAAAGTACCAGTTCTACCCCAACATGTTTTGCAAAGGGA
+>Plcg2
+CCAAGGACTTTGAGCGAGCCAAGGCTGTCCGCCACAAGGCAGAATGTTGCTTCACCATCCTCTACGGCACCCAGTTTGTCCTCAGCACGCTCAGTTTGGCAACGGACTCAAAGGAGGATGCGGTGAAGTGGCTCTCTGGTTTGAAGATCCTACACCAGG
+>Polr2a
+CAGAGAAGCTGGTCCTTCGAATCCGCATCATGAACAGTGATGAAAACAAGATGCAAGAGGAGGAAGAGGTGGTGGATAAAATGGATGATGATGTCTTCCTGCGATGCATTGAGTCCAACATGCTGACAGATATGACCCTGCAGGGTATCGAGCAG
+>PORCN
+CTGCCTACTGTCCAACAGGGCCTTGACCAGATCTGGCTGCTTCTTACCATCTGCTTCGCCTGCCGCCTCCTTTGGAGGCTGGGGTTACCGTCTTACCTGAAGCATGCAAGCACCGTGGCAGGTGGCTTCTTCAGCCTCTACCACTTCTTCCAGCT
+>Pou2f3
+TGAGGCCCTCAACCTGAGCTTCAAGAACATGTGCAAACTCAAGCCACTGCTGGAGAAGTGGTTGAATGATGCAGAGTCCTCCCCGTCAGACCCTTCAGCGAGCACACCCAGCTCCTACCCCACTCTCAGCGAAGTGTTTGGCAGGAAGAGGAAGAAACGG
+>PPAT
+GAGCTGGAAAACTGCCAGCCATTCGTAGTTGAGACGCTTCACGGAAAAATAGCTGTGGCCCATAACGGGGAACTGGTGAACGCCGCTCGGTTGCGGAAGAAGCTTCTGCGGCAGGGTATTGGGCTTTCCACGTCCTCTGATAGTGAAATGA
+>ppp2cb
+GGCTTTTATGATGAGTGCCTACGGAAGTATGGAAATGCCAACGTGTGGAAATACTTTACAGATCTCTTTGATTATCTTCCACTTACAGCTTTAGTAGATGGACAGATATTCTGCCTCCACGGTGGCCTGTCTCCATCCATAGATACACTGGACCA
+>Prap1
+CCTGGCCACCTGTTTGGTGGCTGCACTGCTGTGGGAGGCAGGCGCAGCTCCAGCACACCAGGTCCCTGTCAAGACCAAAGGCAAACATGTGTTCCCTGAACAGGAAACAGAGAAGGTCTGGGATACTAGAGCCCTGGAGCCTCTTGAAAAGG
+>Prelp
+ACAACAAGATCAGCAACGTGCCGGCCATCAGCAACAAGCTGGAACACCTGTACCTCAACAACAATAGCATAGAGAAAATCAACGGGACCCAGATTTGCCCCAACAACCTAGTGGCCTTCCATGACTTCTCCTCGGATCTGGAAAACGTGCCC
+>Prom1
+CAGCTTGAGAATGTCGTCAACGTCAGTGATCATTTCAACATTGACCAGATTTCTGAAAACATAAATACGGAGTTGGAAAACCTGAATGTGAACATTGATAGCATTGAACTGTTGGATAACACAGGAAGGAAGAGCCTCGAGGACTTTGC
+>Prox1
+AGCTCCAACATGCTGAAGACCTACTTCTCGGACGTGAAGTTCAACAGATGCATTACCTCGCAGCTCATCAAGTGGTTCAGCAATTTCCGTGAGTTTTACTATATCCAGATGGAGAAGTATGCGCGTCAAGCCATCAATGATGGAGTCACCAGT
+>Ptch1
+GCTGTGGGATTAAAGGCAGCTAATCTCGAGACCAACGTGGAGGAGCTGTGGGTGGAAGTTGGTGGACGAGTGAGTCGAGAATTAAATTATACCCGTCAGAAGATAGGAGAAGAGGCTATGTTTAATCCTCAACTCATGATACAGACTCCAAAAGAAGAAGGCG
+>RARa
+TCACCACCCTCACCATCGCCGACCAGATCACCCTCCTCAAGGCTGCCTGCCTGGATATCCTGATTCTGCGAATCTGCACGCGGTACACGCCTGAGCAAGACACAATGACCTTCTCAGATGGACTGACCCTGAACCGGACTCAGATGCACAACGC
+>Rbbp4
+GTGATTGCCAGTGTCCAGCTCCCTAATGATGATGCTCAGTTTGATGCATCCCATTATGACAGTGAAAAAGGAGAATTTGGAGGTTTTGGTTCTGTCAGTGGGAAAATTGAAATAGAAATCAAGATCAACCATGAAGGAGAAGTGAACAGGGCC
+>Rbp7
+ACTCACTTGCGTACAGAGAGGAGAGAAGAAAAACAGAGGCTGGAGCCACTGGATCGAAGGGGACCAGCTCCACCTGGAAATGTTCTGCGAAGGCCAGGTGTGCAAGCAAACCTTCCAGAGAGCCTGATACATCTCCAGCAACAGAGCCCGCTTGAGGCAACTACTCAATGC
+>Rbpj
+CGACCCTGTATCACAACTCCACAAATGTGCATTTTACCTTAAGGATACAGAAAGAATGTACTTGTGCCTTTCTCAAGAAAGAATAATCCAATTTCAGGCCACTCCATGTCCAAAAGAACAAAATAAGGAAATGATAAACGATGGAGCTTCCTGGACA
+>Reg1
+CTGCTCTCATGCCTGATCGTCCTGTCTCCAAGCCAAGGCCAGGAAGCTGAAGAAGACCTGCCATCTGCCAGGATCAGTTGCCCAGAAGGTTCCAATGCCTACAGCTCCTATTGTTACTACTTCACTGAAGACCGTTTAACTTGGGCTGATGCA
+>Rela
+CCTGGTCACCAAGGATCCACCTCACCGGCCTCATCCACATGAACTTGTGGGGAAGGACTGCCGGGATGGCTACTATGAGGCTGACCTCTGCCCAGACCGCAGTATCCATAGCTTCCAGAACCTGGGGATCCAGTGTGTGAAGAAGCGAGACCTGG
+>Rgmb
+GCTGTTGCTGCTGCTGCTGCTCAGCCTTGGGCTGCTCCACGCAGGTGATTGCCAACAGCCTACTCAATGCCGAATCCAGAAATGTACCACAGACTTCGTGGCCCTGACTGCACACCTGAACTCTGCCGCTGATGGGTTTGACTCTGAGTTTTGCAAGGCAC
+>Rictor
+GTTTCCTAGTTCTGTGGCCAACTCATTAATTGCGGTTGGAAATGATGGGCTTCAGGAACGAGACAGAATGGTCCGGGCTTGCATCGCCATCATCTGTGAACTAGCACTTCAGAACCCAGAGGTGGTAGCCCTTCGAGGAGGACTAAACACC
+>Rnf32
+TCTACAGAGGGTCCTAACATGGAAGATCCAGAGAAGGAATATGTTCTAGACCCCACACCACCACCATTAACTTTAGCCCAGAAACTAGGCCTCTTGCCACCTCCCCCGTTGCCACTGTCATCAGATGAGTGGGAGAGAGTGAAGCAGAGATC
+>Rnf43
+TTGCAGAAGTGACTCCAGCAGAAGGGAAGCTAATGCAGTCCCACCCCCTGTACCTGTGCAACGCCAGTGATGACGACAACCTTGAGCCTGGGTTCATCAGCATCGTCAAGCTGGAGAGCCCTCGACGAGCTCCTCGCCCCTGCCTGTCACTGGCCAGTAAG
+>Scd2
+ATGGCCCTGCTGCATTTGGGAGCCTTGTACGGGATCACACTGGTTCCCTCCTGCAAGCTCTACACCTGTCTCTTCGCGTATTTGTACTATGTAATCAGCGCCCTGGGCATCACAGCCGGGGCTCATCGCCTGTGGAGCCACAGAACATACAAGGCACGGCT
+>Scgn
+AGCGCTTCGACAAGGAAGAAAAAGGTTACATAAGAGAGACAGAGCTGGATGCCTTCTTTGATCATTTGCTGGCAAAATCTGGCACTGAGGACACTCTTATGGAAGAAAATGTGCAGAAAGTGAAAGAACAGTTGATGACCAGCCACAACGT
+>Sct
+GTTCACCAGCGAGCTCAGCCGCTTGCAGGACAGTGCCAGGCTGCAGCGCCTGCTGCAGGGTCTGGTGGGGAAGCGCAGCGAGCAGGACACAGAAAATATCCCAGAGAACAGCCTGGCCCGGTCCAAGCCCTTAGAGGACCAGCTCTGCTTGCTGTGGTCGAACAC
+>Sec61g
+TGTGGGTTGCCAGCTTCCGGTTCCGTTGGGCTCGGTTCTCTCCTGAGCTACGTGTCTCTACGCTCTCAATCCGCCATCCAACAAACATGGATCAGGTAATGCAGTTTGTGGAGCCCAGCCGGCAGTTTGTAAAGGACTCAATTCGGCTGGT
+>Shmt1
+CCTAATGGATCTGCGTTCTAAGGGTACTGATGGTGGAAGGGCTGAGAAGGTACTAGAAGCCTGTTCTATCGCCTGCAACAAGAATACCTGCCCAGGTGACAAGAGCGCGTTACGGCCCAGTGGACTGCGACTGGGGACTCCAGCATTGACATCC
+>Shmt2
+CCGTAGACCCCAAGACTGGCAAAGAGATCCCTTATACCTTTGAGGACCGAATCAACTTCGCTGTGTTCCCATCCCTACAGGGTGGCCCCCACAACCACGCCATTGCTGCAGTAGCCGTGGCTCTCAAGCAGGCCTGCACCCCTATGTTCCGCGAGTACTCC
+>Sis
+CAAAGGGTTGACATGTACCTTCCAGAAGATAAAATAGGATTACATCTTAGAGGAGGTTATATCATCCCTACCCAGCAACCTGATGTAACAACAACAGCAAGCCGAAAGAATCCTCTAGGCCTTATTGTTGCATTAGATGAAAACCAGGCA
+>Slc12a2
+GGAATTTGGTGGTGCAATTGGCTTGATCTTTGCTTTTGCCAATGCGGTGGCCGTTGCTATGTATGTTGTCGGATTCGCAGAGACTGTGGTGGAGCTGCTTAAGGAACATTCCATACTTATGATAGATGAAATCAATGATATCCGAATTATTGGAGCCATTACAGTCG
+>Soat1
+GAAACAATTGATAGCCAAGAAGAGGCTGTTGGCAGCAGAGGCGGAGGAGCTGAAGCCACTATTTATGAAGGAAGTTGGGTGCCACTTCGATGACTTTGTGACCAACCTCATTGAAAAGTCCGCATCGCTGGACAATGGTGGGTGTGCACTCACAACCTTCT
+>Socs3
+CTCGGGGACCATAGGAGGCGCAGCCCCAAGGCCGGAGATTTCGCTTCGGGACTAGCTCCCCGGGATGCGGTAGCGGCCGCTGTGCGGAGGCCGCGAAGCAGCTGCAGCCACCGCCGCGCAGATCCACGCTGGCTCCGTGCGCCATGGTCACCCACAGCA
+>Sox9
+CACAACGCGGAGCTCAGCAAGACTCTGGGCAAGCTCTGGAGGCTGCTGAACGAGAGCGAGAAGAGACCCTTCGTGGAGGAGGCGGAGCGGCTGCGCGTGCAGCACAAGAAAGACCACCCCGATTACAAGTACCAGCCCCGGCGGAGGAAGTCGGTGAAGAAC
+>Spink4
+CCTTGGTTCCCCTCCTTGGCATGGACAGGGAACTGATGGTGTCAGCTGGGAGCCTTGTTTTCCCCAGAATGCCCTTCTGTGAGCACATGGCTGAGCTTCCAAACTGTCCCCAGACACCCAACCTGATCTGTGGCACGGATGGGCTCACATAT
+>Sst
+CAGTTTCTGCAGAAGTCTCTGGCGGCTGCCACCGGGAAACAGGAACTGGCCAAGTACTTCTTGGCAGAGCTGCTGTCCGAGCCCAACCAGACAGAGAATGATGCCCTGGAGCCCGAGGATTTGCCCCAGGCAGCTGAGCAGGACGAGATGAGGCTGG
+>Stat1
+GTCTCGTTTGCGACCATCCGCTTCCATGACCTCCTCTCACAGCTGGACGACCAGTACAGCCGCTTTTCTCTGGAGAATAATTTCTTGTTGCAGCACAACATACGGAAAAGCAAGCGTAATCTCCAGGATAACTTCCAAGAAGATCCCGTACAGATGTCCATGA
+>Tac1
+ACAGATTCCTTTGTTGGACTAATGGGCAAAAGAGCTTTAAATTCTGTGGCTTATGAAAGAAGCGCGATGCAGAACTACGAAAGAAGACGTAAATAAACCCCTGAACGCACTATCTATTCATCTTCATCTGTGTCAGTGAGCAGTGAAC
+>TBP
+GCACCACCCCCTTGTACCCTTCACCAATGACTCCTATGACCCCTATCACTCCTGCCACACCAGCTTCTGAGAGCTCTGGAATTGTACCGCAGCTTCAAAATATTGTATCTACCGTGAATCTTGGCTGTAAACTTGACCTAAAGACCA
+>Tcf7l2_iso1
+GCTTCACATGCAGCTGTACCCTGGCTGGTCTGCACGGGATAACTATGGGAAGAAGAAGAAGAGAAAAAGAGACAAGCAGCCGGGGGAAACCAACGAACACAGCGAATGTTTCCTAAATCCTTGCCTTTCGCTTCCTCCGATCACAGACCTGAGCGCT
+>Tcf7l2_iso2
+CCTGTCCAGGGAAGAACAGGCAAAATACTACGAGCTGGCCCGGAAGGAACGACAGCTTCACATGCAGCTGTACCCTGGCTGGTCTGCACGGGATAACTATGGGAAGAAGAAGAAGAGAAAAAGAGACAAGCAGCCGGGGGAAACCAACGATGCAAATACGC
+>Tff3
+CTCTGGCTAATGCTGTTGGTGGTCCTGGTTGCTGGGTCCTCTGGGATAGCTGCAGATTACGTTGGCCTGTCTCCAAGCCAATGTATGGTGCCGGCAAATGTCAGAGTGGACTGTGGCTACCCCTCTGTCACATCGGAGCAGTGTAACAACCGTGG
+>Tmem176b
+GTGCGATACAGTGATGATTCAGACTGGAAGACAGAGAGGTGCAGAGAGTACCTGAACATGATGATGAACTTGTTCCTAGCGTTCTGCATCATGCTCACAGTGGTCTGTATCCTGGAGATTGTTGTGTCTGTGGCTTCCCTGGGACTAAGTCTCCGAAGTATGTATGGCCG
+>Tmsb10
+CGCTCTTTTGTCTCTTGCTGCAGCAACGAGAGTGGGAGCACCTGGAGCGCGAGCTCGGAAGGAGAATCCACGAGTTGTAAGAAAATGGCAGACAAGCCGGACATGGGGGAAATCGCCAGCTTCGATAAGGCCAAGCTGAAGAAAACCGAGACGCAGGAGAAGAAC
+>Tnf
+GGCTTCCAGAACTCCAGGCGGTGCCTATGTCTCAGCCTCTTCTCATTCCTGCTTGTGGCAGGGGCCACCACGCTCTTCTGTCTACTGAACTTCGGGGTGATCGGTCCCCAAAGGGATGAGAAGTTCCCAAATGGCCTCCCTCTCATCAGTTCTATGGCCC
+>Tnfrsf19
+CAAGGTCCTACCTCTACACAGGACGGTGCTCTTCGCTGCCATTCTCTTCCTACTCCACCTGGCATGTAAAGTGAGTTGCGAAACCGGAGATTGCAGGCAGCAGGAATTCAAGGATCGATCTGGAAACTGTGTCCTCTGCAAACAGTGCGGACCTGGCATGGAGTTGTCC
+>Tph1
+AGAGAACAAAGACCATTCCTCCGAAAGAGGGAGAGTGACTCTCATCTTCTCCTTGGAGAATGAAGTCGGAGGACTCATAAAAGTGCTGAAAATCTTCCAGGAGAATCATGTGAGCCTGTTACACATCGAGTCCCGGAAATCAAAGCAAAGAAATTCAGAA
+>Trim31
+GTCACAGGCCCAAGATTTGGGGCAAAAGGACAAGAAAATAATTGAAGAGAAAAAACAAGGTGAAGGGGCAATCTGGGCGTTCAGGGCCCAGGTGGATCTAGAGAAACTAAAGATCCATGAGGAATTCAAGCTCCTGCGCCAGAGACTAGATGAGGAAGAGAG
+>Trp53
+CGCAAAAAGGAAGTCCTTTGCCCTGAACTGCCCCCAGGGAGCGCAAAGAGAGCGCTGCCCACCTGCACAAGCGCCTCTCCCCCGCAAAAGAAAAAACCACTTGATGGAGAGTATTTCACCCTCAAGATCCGCGGGCGTAAACGCTTCGAGATGTTCCGGGA
+>Trpm5
+CCTCTGCTGCTGGAAAGCTCGGCTTCCTGCCCTAATCTCTATGCCAACTGGCTGGTCATTCTCCTGCTGGTTACCTTCCTGCTTGTCACTAATGTGCTGCTCATGAACCTTCTGATCGCCATGTTCAGCTACACATTCCAGGTGGTGCAAGGCAATGCAGAC
+>Tuba4a
+CGATAAGACCATTGGTGGAGGGGACGACTCCTTCACCACCTTCTTCTGTGAAACTGGAGCTGGAAAACATGTGCCTCGGGCAGTCTTTGTGGACCTGGAGCCTACTGTAATCGATGAGATCCGAAATGGCCCATACCGTCAGCTCTTCCACCCAGAGCA
+>Tubb2c
+CGGACACAGTGGTTGAGCCCTACAATGCCACCCTTTCAGTCCACCAGCTGGTTGAAAACACAGATGAGACCTATTGTATTGATAATGAAGCACTTTATGACATCTGCTTCAGAACCCTAAAGCTGACCACACCCACTTACGGTGACCTGAAC
+>Txndc5
+TGGCACTCACCGAGAAGAGCTTCGAGGACACTATTGCACAGGGGATAACCTTCGTCAAGTTCTATGCTCCGTGGTGTGGCCACTGTAAGAATCTGGCTCCTACCTGGGAGGAGCTCTCTAAAAAGGAATTCCCAGGCTTGTCAGATGTCACCATCGCAGAAGTGGACT
+>Ube2c
+CCTGAGTCAGACAACCTGTTCAAGTGGGTGGGGACCATCCACGGAGCAGCCGGCACCGTATATGAAGACCTGAGGTACAAACTCTCCCTAGAGTTCCCCAGCGGCTACCCTTACAACGCACCCACAGTGAAGTTCCTCACACCCTGCTACCA
+>VEGFa
+GAGTACATCTTCAAGCCGTCCTGTGTGCCGCTGATGCGCTGTGCAGGCTGCTGTAACGATGAAGCCCTGGAGTGCGTGCCCACGTCAGAGAGCAACATCACCATGCAGATCATGCGGATCAAACCTCACCAAAGCCAGCACATAGGAGAGATGAGCTTC
+>Vim
+GGAACAACGATGCCCTGCGCCAGGCCAAGCAGGAGTCAAACGAGTACCGGAGACAGGTGCAGTCACTCACCTGTGAAGTGGATGCCCTTAAAGGCACTAACGAGTCCCTGGAGCGCCAGATGCGTGAGATGGAAGAGAATTTTGCCCTTGAAGCTGCTAACTACCAG
+>Wnt3
+GAGTGCCAGCATCAGTTCCGGGGCCGCCGGTGGAACTGTACCACCATAGATGACAGCCTGGCCATCTTTGGGCCTGTCTTGGACAAAGCCACCCGTGAATCGGCCTTCGTGCATGCCATCGCCTCGGCTGGTGTCGCCTTCGCAGTCACACGCTC
+>XIAP
+GCAGAATATGAAGCACGGATCGTTACTTTTGGAACATGGACATCCTCAGTTAACAAGGAGCAGCTTGCAAGAGCTGGATTTTATGCTTTAGGTGAAGGCGATAAAGTGAAGTGCTTTCACTGTGGAGGAGGGCTCACGGATTGGAAGCCAAGTGAAGACCC
+>YAP1
+ACCCCAGACGACTTCCTCAACAGTGTGGATGAAATGGATACAGGAGACACCATCAGCCAAAGCACCCTGCCGTCACAGCAGAGCCGCTTCCCCGACTACCTGGAAGCCCTCCCTGGGACAAATGTGGACCTTGGCACACTGGAAGGAGATGC
